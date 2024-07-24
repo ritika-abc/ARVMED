@@ -152,7 +152,7 @@ h6,
     .sticky-top.navbar-light .navbar-nav .nav-link {
         padding: 10px 0;
         margin-left: 0;
-        color: var(--dark) !important;
+        color: white!important;
     }
 
     .navbar-light .navbar-brand h1 {
@@ -592,4 +592,8 @@ h6,
 .footer .copyright a:hover,
 .footer .footer-menu a:hover {
     color: var(--secondary);
+}
+
+.service_cards_pera{
+    height: 230px;
 }

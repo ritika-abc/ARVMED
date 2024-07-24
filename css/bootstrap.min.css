@@ -4750,7 +4750,7 @@ fieldset:disabled .btn {
 }
 
 .navbar-light .navbar-toggler {
-    color: rgba(0, 0, 0, 0.55);
+    color: rgb(255, 255, 255);
     border-color: rgba(0, 0, 0, 0.1)
 }
 
@@ -8291,7 +8291,8 @@ fieldset:disabled .btn {
 }
 
 .text-primary {
-    color: #6222CC !important
+    /* color: #6222CC !important */
+    color: #fcb900 !important
 }
 
 .text-secondary {
