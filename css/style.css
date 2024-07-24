@@ -596,4 +596,20 @@ h6,
 
 .service_cards_pera{
     height: 230px;
+   
+}
+.service_cards{
+   overflow: hidden;
+   transition: 0.5s;
+   transform: translateY(0px);
+
+}
+.digital_marketing{
+ 
+   transition: 0.5s;
+   transform: translateY(0px);
+
+}
+.digital_marketing:hover{
+   transform: translateY(-30px);
 }
