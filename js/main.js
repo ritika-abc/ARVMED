@@ -60,7 +60,7 @@
         autoplay: true,
         smartSpeed: 1000,
         margin: 25,
-        padding: 20,
+       
         dots: false,
         loop: true,
         nav : true,

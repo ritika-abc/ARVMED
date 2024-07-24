@@ -55,7 +55,8 @@
 
 .owl-carousel .owl-item img {
     display: block;
-    width: 80%
+    width: 80%;
+    margin: auto;
 }
 
 .owl-carousel .owl-dots.disabled,
