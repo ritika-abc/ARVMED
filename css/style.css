@@ -5,7 +5,9 @@
     --light: #F6F4F9;
     --dark: #04000B;
 }
-
+h1,h2,h3,h4,h5,h6{
+    /* font-family: sans-serif !important; */
+}
 p{
     font-size: 18px;
 }
@@ -612,4 +614,37 @@ h6,
 }
 .digital_marketing:hover{
    transform: translateY(-30px);
+}
+.bg_clip{
+    clip-path: polygon(0 0, 70% 30%, 100% 0);
+    background-color: rgb(251 165 4);
+    height: 100px;
+    width: 30%;
+    padding: 10px;
+    position: absolute;
+    animation: tran 8s infinite linear;
+     position: relative;
+     left: 0%;
+}
+@keyframes tran{
+    0%{
+        left: 0%; 
+    }
+    50%{
+        left:  50%; 
+
+    }
+}
+.package_card ol li{
+margin-top: 10px;
+border-bottom: 2px dashed rgb(254 254 254 / 27%)
+}
+.package_card{
+    transition: 0.6s;
+    transform: translateY(0px);
+}
+.package_card:hover{
+    transform: translateY(-20px);
+
+   background-color: rgb(251 165 4) !important;
 }
