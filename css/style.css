@@ -154,7 +154,7 @@ h6,
     .sticky-top.navbar-light .navbar-nav .nav-link {
         padding: 10px 0;
         margin-left: 0;
-        color: white!important;
+        color: rgb(0, 0, 0)!important;
     }
 
     .navbar-light .navbar-brand h1 {
@@ -175,7 +175,7 @@ h6,
         border-bottom: 1px solid rgba(256, 256, 256, .1);
         z-index: 999;
     }
-    
+   
     .sticky-top.navbar-light {
         position: fixed;
         background: #FFFFFF;
@@ -517,14 +517,14 @@ h6,
 /*** Footer ***/
 .footer {
     margin-top: 6rem;
-    padding-top: 9rem;
-    background:
-        url(../img/bg-top.png),
+    padding-top: 4rem;
+    /* background:
+      
         url(../img/map.png);
     background-position:
         center top,
         center center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
 }
 
 .footer .btn.btn-social {
@@ -657,4 +657,13 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
 }
 .pere_justify{
     text-align: justify;
+}
+
+@media screen and (max-width:576px) {
+    .banner_content{
+        top: 20%;
+    }
+    .box{
+        height: 70vh;
+    }
 }
