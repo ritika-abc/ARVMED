@@ -487,8 +487,8 @@ h6,
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--primary);
-    background: var(--light);
+    color: #FFC107;
+    background: #fba5041f;
     border-radius: 60px;
     font-size: 22px;
     transition: .5s;
@@ -496,8 +496,8 @@ h6,
 
 .testimonial-carousel .owl-nav .owl-prev:hover,
 .testimonial-carousel .owl-nav .owl-next:hover {
-    color: #FFFFFF;
-    background: var(--primary);
+    color: #ffffff;
+    background: #fba504;
     box-shadow: 0 0 10px rgba(0, 0, 0, .5);
 }
 
@@ -666,4 +666,9 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
     .box{
         height: 70vh;
     }
+}
+
+.margin{
+    margin-top: 14rem ;
+    margin-bottom: 4rem;
 }

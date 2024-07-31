@@ -55,15 +55,16 @@
     });
 
 
+ 
     // Testimonials carousel
-    $(".testimonial-carousel").owlCarousel({
+    $(".logo").owlCarousel({
         autoplay: true,
         smartSpeed: 1000,
         margin: 25,
        
         dots: false,
-        loop: true,
-        nav : true,
+        loop: false,
+        nav : false,
         navText : [
             '<i class="bi bi-chevron-left"></i>',
             '<i class="bi bi-chevron-right"></i>'
