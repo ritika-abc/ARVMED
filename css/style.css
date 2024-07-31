@@ -109,7 +109,7 @@ h6,
     font-family: "DM Sans", sans-serif;
     font-size: 18px;
     font-weight: 500;
-    color: var(--light) !important;
+    color: var(--dark) !important;
     outline: none;
     transition: .5s;
 }
@@ -117,7 +117,7 @@ h6,
 .sticky-top.navbar-light .navbar-nav .nav-link {
     padding: 20px 0;
     /* color: var(--dark) !important; */
-    color: white !important;
+    color: rgb(0, 0, 0) !important;
 }
 
 .navbar-light .navbar-nav .nav-link:hover,
@@ -647,4 +647,14 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
     transform: translateY(-20px);
 
    background-color: rgb(251 165 4) !important;
+}
+
+
+/*  */
+.box_conteiner{
+    background-color: #fcca29;
+    padding: 5rem 0rem;
+}
+.pere_justify{
+    text-align: justify;
 }
