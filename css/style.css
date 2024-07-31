@@ -554,14 +554,14 @@ h6,
     transition: .3s;
 }
 
-.footer .btn.btn-link::before {
+/* .footer .btn.btn-link::before {
     position: relative;
     content: "\f105";
     font-family: "DM Sans", sans-serif;
-    /* font-family: "Font Awesome 5 Free"; */
+    font-family: "Font Awesome 5 Free";
     font-weight: 900;
     margin-right: 10px;
-}
+} */
 
 .footer .btn.btn-link:hover {
     letter-spacing: 1px;
