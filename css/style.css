@@ -661,7 +661,7 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
 
 @media screen and (max-width:576px) {
     .banner_content{
-        top: 20%;
+        top: 13%;
     }
     .box{
         height: 70vh;
