@@ -672,3 +672,11 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
     margin-top: 14rem ;
     margin-bottom: 4rem;
 }
+
+
+.font {
+    font-family: "Rubik Distressed", system-ui;
+    /* font-weight: 400; */
+    /* font-style: normal; */
+    letter-spacing: 1px;
+  }
