@@ -666,6 +666,9 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
     .box{
         height: 70vh;
     }
+    .responsive_banner{
+        top: 10%;
+    }
 }
 
 .margin{
