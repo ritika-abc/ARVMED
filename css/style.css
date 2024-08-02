@@ -680,3 +680,16 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
     /* font-style: normal; */
     letter-spacing: 1px;
   }
+  .top_banner{
+    height: 70vh;
+  }
+  .icon_box_center{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #FBA504;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
