@@ -643,16 +643,23 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
     transition: 0.6s;
     transform: translateY(0px);
 }
+ 
 .package_card:hover{
     transform: translateY(-20px);
-
-   background-color: rgb(251 165 4) !important;
+ 
+   background-color: #ffffff15 !important;
 }
 
 
 /*  */
 .box_conteiner{
-    background-color: #fcca29;
+    /* background-color: #fcca29; */
+    padding: 5rem 0rem;
+}
+.box_conteiner{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.685),rgba(0, 0, 0, 0.61)), url(../257286-P4JN71-918.jpg);
+    background-size: cover;
+    background-attachment: fixed;
     padding: 5rem 0rem;
 }
 .pere_justify{
