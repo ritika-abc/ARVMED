@@ -388,7 +388,7 @@
     bottom: 0;
     left: 0;
     border-radius: 10px;
-    background: var(--bs-primary);
+    background: #445239;
     transition: 0.5s;
     z-index: 2;
 }
