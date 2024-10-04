@@ -703,3 +703,8 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
     justify-content: center;
     
   }
+
+  .service_bg{
+    background-color: #f0f7f7;
+    padding: 4rem 0rem;
+  }
