@@ -708,3 +708,45 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
     background-color: #f0f7f7;
     padding: 4rem 0rem;
   }
+
+  .designing_banner{
+    /* background-image: url("../image/banner2\(1\).png"); */
+   padding: 9rem 0rem;
+    background: rgb(144,97,51);
+/* background:linear-gradient(29deg, rgba(144, 97, 51, 1) 0%, rgb(250 175 20 / 11%) 0%, rgba(67, 187, 192, 1) 95%); */
+background-color: #0b334c;
+    
+  }
+
+
+  .feedback-image {
+    position: relative;
+    height: 350px;
+    width: 350px;
+    margin: auto;
+}
+.box_border{
+    height: 350px;
+    width: 350px;
+    border: 2px dashed rgb(0, 0, 0);
+    border-radius: 50%;
+    animation: a 22s infinite linear ;
+    
+}
+@keyframes a{
+    100%{
+        transform: rotate(360deg);
+    }
+}
+.img1 {
+    left:  0%;
+    top:  0%;
+}
+.img2 {
+    left:   100%;
+    top: 50%;
+}
+.img3 {
+    /* left:   50%;
+    top: 100%; */
+}
