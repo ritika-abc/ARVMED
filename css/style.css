@@ -9,7 +9,7 @@ h1,h2,h3,h4,h5,h6{
     /* font-family: sans-serif !important; */
 }
 p{
-    font-size: 18px;
+    /* font-size: 18px; */
 }
 /*** Spinner ***/
 #spinner {
@@ -168,7 +168,7 @@ h6,
 
 @media (min-width: 992px) {
     .navbar-light {
-        position: absolute;
+        /* position: absolute; */
         width: 100%;
         top: 0;
         left: 0;
@@ -711,7 +711,7 @@ border-bottom: 2px dashed rgb(254 254 254 / 27%)
 
   .designing_banner{
     /* background-image: url("../image/banner2\(1\).png"); */
-   padding: 9rem 0rem;
+   padding: 4rem 0rem;
     background: rgb(144,97,51);
 /* background:linear-gradient(29deg, rgba(144, 97, 51, 1) 0%, rgb(250 175 20 / 11%) 0%, rgba(67, 187, 192, 1) 95%); */
 background-color: #0b334c;
@@ -749,4 +749,100 @@ background-color: #0b334c;
 .img3 {
     /* left:   50%;
     top: 100%; */
+}
+
+.icon_box_ppc{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #fba504;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid rgb(0, 0, 0);
+
+}
+.float{
+    animation:  float 6s infinite  linear;
+}
+
+@keyframes float{
+    50%{
+        transform: translateY(-30px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+
+
+.dotted-border {
+    width: 200px;
+    height: 200px;
+    /* border: 10px dotted #333; */
+    position: relative;
+    background-color: rgb(224, 228, 229);
+    left: 0%;
+    animation: moveY 13s linear infinite;
+    margin: 10px;
+}
+
+@keyframes moveY {
+    0% {
+      left: 100%;
+    }
+    100% {
+        left: -100%;
+
+    }
+}
+
+.banner_header{
+    height: 40vh;
+    width: 100%;
+    background-image: url(../image/about-banner.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.enquiry_input{
+background-color: transparent;
+color: white;
+}
+.enquiry_now{
+    background-color: #a8a5aa1a;
+     box-shadow: 16px 16px 35px #00000073;  
+
+}
+.enquiry_now{
+    /* background-color: ; */
+    /* box-shadow: 16px 16px 35px #00000073; */
+}
+.enquiry_input:focus{
+    background-color: #00000000;
+    color: white;
+    border-color: #FBA504;
+}
+
+.num_button {
+                    
+    background-color:#FBA504;
+    color: rgb(255, 255, 255) !important;
+    font-weight: bold;
+}
+
+.num_button:visited{
+    color: #FBA504 !important;
+}
+.num_button:hover {
+    animation: b 0.2s linear forwards ;
+    color: white !important;
+}
+
+@keyframes b {
+    100% {
+        transform: translateY(-10PX);
+    }
 }

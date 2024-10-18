@@ -120,6 +120,27 @@
             }
         }
     });
+    $(".report").owlCarousel({
+        autoplay: true,
+        smartSpeed: 1000,
+        // margin: 25,
+       
+        dots: true,
+        loop: true,
+        nav : false,
+        navText : [
+            '<i class="bi bi-chevron-left text-center "></i>',
+            '<i class="bi bi-chevron-right text-center "></i>'
+        ],
+        responsive: {
+            0:{
+                items:1
+            },
+            992:{
+                items:3
+            }
+        }
+    });
 
 
     // Portfolio isotope and filter
