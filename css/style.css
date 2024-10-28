@@ -846,3 +846,10 @@ color: white;
         transform: translateY(-10PX);
     }
 }
+
+.fixed_bg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.438)), url(people-creating-new-project_23-2147656719.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 5rem 0rem;
+}

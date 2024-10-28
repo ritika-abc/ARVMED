@@ -84,7 +84,7 @@
                 <div class="row  flex-column-reverse flex-lg-row">
                     <div class="col-lg-6">
                         <div class=" ">
-                        <h5 class="t fw-bold  mb-1">SEO agency in delhi</h5>
+                            <h5 class="t fw-bold  mb-1">SEO agency in delhi</h5>
                             <h1 class="text-primary    ">Expert SEO Services in Delhi
                                 Get Your Business to the Top of Google
                             </h1>
@@ -108,15 +108,18 @@
 
 
         <!-- Our Agency Clients Start -->
-        <div class="container-xxl py-5 wow fadeInUp" style="background-color: #f7f9fb;" data-wow-delay="0.1s">
+     <!-- Our Agency Clients Start -->
+     <div class="container-xxl py-5 wow fadeInUp d-none d-md-block" style="background-color: #f7f9fb;" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <!-- <p class="section-title text-secondary justify-content-center"><span></span>Our  Clients<span></span></p> -->
-                <h1 class="text-center mb-3">Our Clients</h1>
-                <p class="section-title text-secondary justify-content-center"><span></span><span></span></p>
+                <div class="heading_border   position-relative my-5">
+                    <h1 class="text-center ">Our Clients</h1>
+                    <img src="image/border.png" class="position-absolute start-50 translate-middle" height="20px" width="80px" alt="">
+                </div>
 
-                <p class="text-center mt-2 mb-5  " sty>At ARV MEDIA 1998, we take pride in our diverse portfolio of clients across various industries.
-                </p>
-                 
+
+
+
                 <table class="table text-center table-bordered table align-middle">
                     <tr>
                         <td><img src="./update-image/client/1.jpg" height="auto" width="50%" alt=""></td>
@@ -146,10 +149,45 @@
             </div>
         </div>
         <!-- Our Agency Clients End -->
+        <!-- Digital Marketing Services start here -->
+
+        <div class="container d-block d-md-none my-5">
+            <div class="row justify-content-center">
+                <div class="heading_border   position-relative my-5">
+                    <h1 class="text-center ">Our Clients</h1>
+                    <img src="image/border.png" class="position-absolute start-50 translate-middle" height="20px" width="80px" alt="">
+                </div>
+                <div class="col-10">
+
+                    <div class="row">
+
+                        <div class="col-3 text-center"><img src="./update-image/client/1.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/2.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/3.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/4.jpg" height="auto" width="100%" alt=""> </div>
+                        <div class="col-3 text-center"><img src="./update-image/client/5.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/16.jpg" height="auto" width="100%" alt=""></div>
 
 
+                        <div class="col-3 text-center"><img src="./update-image/client/15.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/7.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/8.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/9.jpg" height="auto" width="100%" alt=""> </div>
+                        <div class="col-3 text-center"><img src="./update-image/client/10.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/17.jpg" height="auto" width="100%" alt=""></div>
 
 
+                        <div class="col-3 text-center"><img src="./update-image/client/11.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/12.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/13.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/14.jpg" height="auto" width="100%" alt=""> </div>
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
 
         <!-- Digital Marketing Services start here -->
         <section class="" style="background-color: #f2f2f2; padding: 5rem 0rem;">
@@ -158,7 +196,7 @@
                     <div class="col-lg-7 ">
                         <div class="text-center ">
                             <h4 class="t display-6 mb-4">Our Digital Marketing Services In India</h4>
-                           
+
                             <p class="fs-5   mt-4">our SEO services Provide (Traffic, Lead Generation and Sale)</p>
 
                         </div>
@@ -177,6 +215,7 @@
                                     alt="SEO image">
                             </div>
                             <div class="pb-4 px-2 ">
+                                <h4>Local SEO</h4>
                                 <p> Stay ahead of your biggest competitors with India’s top SEO company.
                                     Attract amazing leads using the power of SEO. We understand what Google looks for to help you rank higher in search results!
                                 </p>
@@ -194,6 +233,7 @@
                                     alt="SEO image">
                             </div>
                             <div class="pb-4 px-2 ">
+                                <h4>International SEO</h4>
                                 <p> Get a stunning website that drives results! Our expert web design services create user-friendly, mobile- responsive, and visually appealing sites tailored to your business needs. Grow your online presence and engage customers like never before.
                                 </p>
                             </div>
@@ -210,6 +250,7 @@
                                     alt="SEO image">
                             </div>
                             <div class="pb-4 px-2 ">
+                                <h4>Ecommerce SEO</h4>
                                 <p>Let our experts handle your PPC campaign. Get better results with our proven performance marketing strategies!
                                 </p>
                             </div>
@@ -219,7 +260,7 @@
                             class="btn btn-secondary  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">know more
                         </a>
                     </div>
-                   
+
                 </div>
             </div>
         </section>
@@ -227,61 +268,338 @@
 
 
         <div class="service_bg   my-5">
-        <div class="container  ">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="service_text text-center">
-                        <h4 class="fs-1">Our Professional <span class="text-primary">SEO Services</span> Include
-                        </h4>
+            <div class="container  ">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="service_text text-center">
+                            <h4 class="fs-4">75 % People Before Purchase Any Product & Services They Search on Google If You Are Not Present You Loss In Your Business
+                            </h4>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <!-- cards -->
-            <!-- screen md lg block / none -->
-            <div class="row mt-4 d-none d-lg-flex">
-                <div class="col-lg-3 col-3">
-                    <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist"
-                        aria-orientation="vertical">
-                        <button class="nav-link active shadow-lg my-3 py-3" id="v-pills-home-tab" data-bs-toggle="pill"
-                            data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home"
-                            aria-selected="true">SEO Audit</button>
-                        <button class="nav-link shadow-lg my-3 py-3" id="v-pills-profile-tab" data-bs-toggle="pill"
-                            data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile"
-                            aria-selected="false">Keyword Research</button>
+                <!-- cards -->
+                <!-- screen md lg block / none -->
+                <div class="row mt-4 d-none d-lg-flex">
+                    <div class="col-lg-3 col-3">
+                        <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist"
+                            aria-orientation="vertical">
+                            <button class="nav-link active shadow-lg my-3 py-3" id="v-pills-home-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home"
+                                aria-selected="true">SEO Audit</button>
+                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-profile-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile"
+                                aria-selected="false">Keyword Research</button>
 
-                        <button class="nav-link shadow-lg my-3 py-3" id="v-pills-messages-tab" data-bs-toggle="pill"
-                            data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages"
-                            aria-selected="false">Technical Audit</button>
-                        <button class="nav-link shadow-lg my-3 py-3" id="v-pills-settings-tab" data-bs-toggle="pill"
-                            data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings"
-                            aria-selected="false">Competitor Website</button>
-                        <button class="nav-link shadow-lg my-3 py-3" id="v-pills-onpage-tab" data-bs-toggle="pill"
-                            data-bs-target="#v-pills-onpage" type="button" role="tab" aria-controls="v-pills-settings"
-                            aria-selected="false">On Page Strategies</button>
-                        <button class="nav-link shadow-lg my-3 py-3" id="v-pills-cnsole-tab" data-bs-toggle="pill"
-                            data-bs-target="#v-pills-cnsole" type="button" role="tab" aria-controls="v-pills-settings"
-                            aria-selected="false">Console Setup</button>
-                        <button class="nav-link shadow-lg my-3 py-3" id="v-pills-account-tab" data-bs-toggle="pill"
-                            data-bs-target="#v-pills-account" type="button" role="tab" aria-controls="v-pills-settings"
-                            aria-selected="false">Analytics account</button>
-                        <button class="nav-link shadow-lg my-3 py-3" id="v-pills-post-tab" data-bs-toggle="pill"
-                            data-bs-target="#v-pills-post" type="button" role="tab" aria-controls="v-pills-settings"
-                            aria-selected="false">Extensive Guest Post</button>
-                        <button class="nav-link shadow-lg my-3 py-3" id="v-pills-data-tab" data-bs-toggle="pill"
-                            data-bs-target="#v-pills-data" type="button" role="tab" aria-controls="v-pills-settings"
-                            aria-selected="false">Google Data Studio</button>
+                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-messages-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages"
+                                aria-selected="false">Technical Audit</button>
+                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-settings-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings"
+                                aria-selected="false">Competitor Website</button>
+                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-onpage-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-onpage" type="button" role="tab" aria-controls="v-pills-settings"
+                                aria-selected="false">On Page Strategies</button>
+                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-cnsole-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-cnsole" type="button" role="tab" aria-controls="v-pills-settings"
+                                aria-selected="false">Console Setup</button>
+                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-account-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-account" type="button" role="tab" aria-controls="v-pills-settings"
+                                aria-selected="false">Analytics account</button>
+                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-post-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-post" type="button" role="tab" aria-controls="v-pills-settings"
+                                aria-selected="false">Extensive Guest Post</button>
+                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-data-tab" data-bs-toggle="pill"
+                                data-bs-target="#v-pills-data" type="button" role="tab" aria-controls="v-pills-settings"
+                                aria-selected="false">Google Data Studio</button>
+                        </div>
+                    </div>
+                    <div class="col-lg-9 col-9 bg-white py-4">
+                        <div class="tab-content" id="v-pills-tabContent">
+                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel"
+                                aria-labelledby="v-pills-home-tab" tabindex="0">
+                                <!-- start here 1 seo audit -->
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h5 class="fs-2">What Our SEO Audit Includes</h5>
+                                            <h6>Comprehensive Analysis for Optimal Performance</h6>
+                                            <img src="image/seo_image/1.jpg" height="auto" width="100%" alt="">
+                                            <h5 class="my-2">Benefits of an SEO Audit</h5>
+                                            <ul>
+                                                <li><b>Identify Issues: </b> Pinpoint technical and on-page issues that may
+                                                    be hindering your website’s performance.</li>
+                                                <li><b>Strategic Insights:</b> Gain a clear understanding of your current
+                                                    SEO standing and actionable insights for improvement.</li>
+                                                <li><b>Prioritize Efforts:</b> Focus on high-impact areas to maximize your
+                                                    SEO efforts and ROI.</li>
+                                                <li><b>Stay Competitive: </b> Understand your competitors’ strengths and
+                                                    weaknesses to develop effective strategies.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- content 1 end here -->
+                            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel"
+                                aria-labelledby="v-pills-profile-tab" tabindex="0">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h5 class="fs-2">Keyword Research</h5>
+                                            <h6>The Foundation of Effective SEO</h6>
+
+                                            <img src="image/seo_image/2.jpg" height="auto" width="100%" alt="">
+                                            <h5 class="my-2">Benefits of Keyword Research</h5>
+                                            <ul>
+                                                <li><b>Targeted Traffic: </b> Attract visitors who are actively searching
+                                                    for your products or services, increasing the likelihood of conversion.
+                                                </li>
+                                                <li><b>Content Relevance:</b> Create content that resonates with your
+                                                    audience’s needs and questions, improving engagement.</li>
+                                                <li><b>Competitive Advantage: </b> Stay ahead of your competitors by
+                                                    targeting keywords they may be overlooking.</li>
+                                                <li><b>Informed Strategy:</b> Make data-driven decisions that inform your
+                                                    SEO and content marketing strategies.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- content 2 end here -->
+                            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel"
+                                aria-labelledby="v-pills-messages-tab" tabindex="0">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h5 class="fs-2">Technical Audit Using Paid Tools (Screaming Frog)</h5>
+                                            <h6>Uncover Hidden Issues for Optimal Performance</h6>
+
+                                            <img src="image/seo_image/3.jpg" height="auto" width="100%" alt="">
+                                            <h5 class="my-2">Benefits of Keyword Research</h5>
+                                            <ul>
+                                                <li><b>Enhanced Crawlability : </b> Improve your site’s ability to be
+                                                    crawled and indexed by search engines.
+                                                </li>
+                                                <li><b>Improved User Experience : </b> Identify and resolve issues that
+                                                    could hinder user experience, reducing bounce rates.</li>
+                                                <li><b>Higher Rankings: </b> Optimize technical elements that contribute to
+                                                    better search engine rankings.</li>
+                                                <li><b>Data-Driven Insights: </b> Leverage data from paid tools for informed
+                                                    decision-making and ongoing optimization.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- content3 end here -->
+                            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel"
+                                aria-labelledby="v-pills-settings-tab" tabindex="0">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h5 class="fs-2">Competitor Website Analysis</h5>
+                                            <h6>Gain Insights to Outperform Your Competition</h6>
+
+                                            <img src="image/seo_image/4.jpg" height="auto" width="100%" alt="">
+                                            <h5 class="my-2">Benefits of Competitor Website Analysis</h5>
+                                            <ul>
+                                                <li><b>Identify Opportunities : </b> Discover gaps in your competitors’
+                                                    strategies that you can exploit.
+                                                </li>
+                                                <li><b>Informed Decision-Making : </b> Make data-driven decisions to refine
+                                                    your SEO and marketing strategies.</li>
+                                                <li><b>Benchmarking: </b> Establish benchmarks for your own performance
+                                                    based on competitor insights.</li>
+                                                <li><b>Stay Ahead: </b> Adapt to industry trends and changes to maintain a
+                                                    competitive edge.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-onpage" role="tabpanel"
+                                aria-labelledby="v-pills-onpage-tab" tabindex="0">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h5 class="fs-2">On-Page Strategies and Reporting</h5>
+                                            <h6>Optimize Your Website for Maximum Impact</h6>
+
+                                            <img src="image/seo_image/5.jpg" height="auto" width="100%" alt="">
+                                            <h5 class="my-3">1. Reporting and Performance Tracking</h5>
+                                            <ul>
+                                                <li><b>Monthly SEO Reports : </b> Receive comprehensive reports detailing
+                                                    keyword rankings, organic traffic, and other key performance indicators
+                                                    (KPIs).
+                                                </li>
+                                                <li><b>Insights and Recommendations : </b>Get actionable insights based on
+                                                    performance data to continuously refine your on-page strategies.</li>
+                                            </ul>
+                                            <h5 class="my-3">2. Progress Tracking</h5>
+                                            <ul>
+                                                <li><b>Keyword Tracking : </b> Monitor changes in keyword rankings to assess
+                                                    the effectiveness of optimization efforts.
+                                                </li>
+                                                <li><b>Traffic Analysis: </b>Analyze organic traffic trends to evaluate the
+                                                    impact of on-page changes.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-cnsole" role="tabpanel"
+                                aria-labelledby="v-pills-cnsole-tab" tabindex="0">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h5 class="fs-2">Console Setup & Monitoring</h5>
+                                            <h6>Maximize Your Website’s Performance with Expert Monitoring</h6>
+
+                                            <img src="image/seo_image/6.jpg" height="auto" width="100%" alt="">
+                                            <h5 class="my-3">Monitoring and Optimization</h5>
+                                            <p>1. Performance Tracking</p>
+                                            <ul>
+                                                <li><b>Keyword Performance : </b> Monitor which keywords are driving
+                                                    traffic, their rankings, and click-through rates (CTR).
+                                                </li>
+                                                <li><b>Traffic Insights : </b>Analyze organic traffic trends to identify
+                                                    high-performing pages and areas needing improvement.</li>
+                                            </ul>
+                                            <p>Error and Issue Monitoring
+                                            </p>
+                                            <ul>
+                                                <li><b>Indexing Errors : </b> Regularly check for indexing issues and
+                                                    resolve any problems that prevent your pages from appearing in search
+                                                    results.
+                                                </li>
+                                                <li><b>Mobile Usability Issues: </b>Monitor for mobile usability errors to
+                                                    ensure a seamless experience for mobile users.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="tab-pane fade" id="v-pills-account" role="tabpanel"
+                                aria-labelledby="v-pills-account-tab" tabindex="0">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h5 class="fs-2">Making sure that Analytics account is perfectly setup</h5>
+                                            <h6>Unlock Valuable Insights with Proper Analytics Setup</h6>
+
+                                            <img src="image/seo_image/7.jpg" height="auto" width="100%" alt="">
+                                            <h5 class="my-3">Data Accuracy and Monitoring</h5>
+                                            <p>1. Data Validation</p>
+                                            <ul>
+                                                <li><b>Real-Time Monitoring: </b> Use real-time reports to confirm that data
+                                                    is being collected accurately as users interact with your site.
+                                                </li>
+                                                <li><b>Debugging Tools: </b>Utilize tools like Google Tag Assistant to
+                                                    identify and resolve any tracking issues.</li>
+                                            </ul>
+                                            <p>2. User Access Management
+                                            </p>
+                                            <ul>
+                                                <li><b>Permissions Setup: </b> Configure user access levels for your team,
+                                                    ensuring the right people have the appropriate access to analytics data.
+                                                </li>
+                                                <li><b>Ongoing Management:</b>Regularly review and update user permissions
+                                                    as needed.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-post" role="tabpanel" aria-labelledby="v-pills-post-tab"
+                                tabindex="0">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h5 class="fs-2">Extensive Guest Post Research & Opportunities</h5>
+                                            <h6>Amplify Your Brand’s Reach Through Strategic Guest Posting</h6>
+
+                                            <img src="image/seo_image/8.jpg" height="auto" width="100%" alt="">
+                                            <h5 class="my-3">Our Guest Post Research Process</h5>
+                                            <p>1. Industry and Audience Analysis</p>
+                                            <ul>
+                                                <li><b>Niche Identification:</b> We start by analyzing your industry to
+                                                    understand the landscape and identify key players.
+                                                </li>
+                                                <li><b>Target Audience Profiling:</b>Identify your ideal audience to ensure
+                                                    that the guest posts resonate with potential customers.</li>
+                                            </ul>
+                                            <p>2. Competitor Insights
+                                            </p>
+                                            <ul>
+                                                <li><b>Competitor Research: </b> Analyze your competitors’ guest posting
+                                                    strategies to uncover effective sites and topics they leverage.
+                                                </li>
+                                                <li><b>Opportunity Gap Analysis: </b>Identify gaps in your competitors'
+                                                    approaches to help you capitalize on unexploited opportunities.</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="v-pills-data" role="tabpanel" aria-labelledby="v-pills-data-tab"
+                                tabindex="0">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h5 class="fs-2">Google Data Studio Setup</h5>
+                                            <h6>Transform Your Data into Actionable Insights</h6>
+
+                                            <img src="image/seo_image/9.jpg" height="auto" width="100%" alt="">
+                                            <h5 class="my-3">Our Google Data Studio Setup Process</h5>
+                                            <p>1. Understanding Your Reporting Needs</p>
+                                            <ul>
+                                                <li><b>Initial Consultation: </b> We begin by discussing your specific
+                                                    reporting goals and key performance indicators (KPIs) to tailor the
+                                                    setup to your business objectives.
+                                                </li>
+                                                <li><b>Data Sources Identification:</b> Identify the various data sources
+                                                    you want to integrate, including Google Analytics, Google Ads, social
+                                                    media platforms, and more.</li>
+                                            </ul>
+                                            <p>2. Data Source Integration
+                                            </p>
+                                            <ul>
+                                                <li><b>Connecting Accounts: </b> Design a visually appealing and intuitive
+                                                    dashboard that highlights your key metrics in real time.
+                                                </li>
+                                                <li><b>Visualizations:</b> Utilize various visualization tools (charts,
+                                                    graphs, tables) to present your data in a clear and engaging manner.
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-9 col-9 bg-white py-4">
-                    <div class="tab-content" id="v-pills-tabContent">
-                        <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel"
-                            aria-labelledby="v-pills-home-tab" tabindex="0">
-                            <!-- start here 1 seo audit -->
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-12">
+
+                <!-- for small view -->
+                <div class="row d-block d-lg-none">
+                    <div class="col-12">
+                        <div class="accordion" id="accordionExample">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        SEO Audit
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
                                         <h5 class="fs-2">What Our SEO Audit Includes</h5>
                                         <h6>Comprehensive Analysis for Optimal Performance</h6>
+
                                         <img src="image/seo_image/1.jpg" height="auto" width="100%" alt="">
                                         <h5 class="my-2">Benefits of an SEO Audit</h5>
                                         <ul>
@@ -297,13 +615,16 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <!-- content 1 end here -->
-                        <div class="tab-pane fade" id="v-pills-profile" role="tabpanel"
-                            aria-labelledby="v-pills-profile-tab" tabindex="0">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-12">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        Keyword Research
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
                                         <h5 class="fs-2">Keyword Research</h5>
                                         <h6>The Foundation of Effective SEO</h6>
 
@@ -323,13 +644,16 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <!-- content 2 end here -->
-                        <div class="tab-pane fade" id="v-pills-messages" role="tabpanel"
-                            aria-labelledby="v-pills-messages-tab" tabindex="0">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-12">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        Technical Audit
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
                                         <h5 class="fs-2">Technical Audit Using Paid Tools (Screaming Frog)</h5>
                                         <h6>Uncover Hidden Issues for Optimal Performance</h6>
 
@@ -349,13 +673,15 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <!-- content3 end here -->
-                        <div class="tab-pane fade" id="v-pills-settings" role="tabpanel"
-                            aria-labelledby="v-pills-settings-tab" tabindex="0">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-12">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapseThree">
+                                        Competitor Website
+                                    </button>
+                                </h2>
+                                <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
                                         <h5 class="fs-2">Competitor Website Analysis</h5>
                                         <h6>Gain Insights to Outperform Your Competition</h6>
 
@@ -375,13 +701,15 @@
                                     </div>
                                 </div>
                             </div>
-
-                        </div>
-                        <div class="tab-pane fade" id="v-pills-onpage" role="tabpanel"
-                            aria-labelledby="v-pills-onpage-tab" tabindex="0">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-12">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapseThree">
+                                        On Page Strategies
+                                    </button>
+                                </h2>
+                                <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
                                         <h5 class="fs-2">On-Page Strategies and Reporting</h5>
                                         <h6>Optimize Your Website for Maximum Impact</h6>
 
@@ -406,13 +734,15 @@
                                     </div>
                                 </div>
                             </div>
-
-                        </div>
-                        <div class="tab-pane fade" id="v-pills-cnsole" role="tabpanel"
-                            aria-labelledby="v-pills-cnsole-tab" tabindex="0">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-12">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapseThree">
+                                        Console Setup
+                                    </button>
+                                </h2>
+                                <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
                                         <h5 class="fs-2">Console Setup & Monitoring</h5>
                                         <h6>Maximize Your Website’s Performance with Expert Monitoring</h6>
 
@@ -439,14 +769,15 @@
                                     </div>
                                 </div>
                             </div>
-
-                        </div>
-
-                        <div class="tab-pane fade" id="v-pills-account" role="tabpanel"
-                            aria-labelledby="v-pills-account-tab" tabindex="0">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-12">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapseThree">
+                                        Analytics account
+                                    </button>
+                                </h2>
+                                <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
                                         <h5 class="fs-2">Making sure that Analytics account is perfectly setup</h5>
                                         <h6>Unlock Valuable Insights with Proper Analytics Setup</h6>
 
@@ -468,16 +799,21 @@
                                             </li>
                                             <li><b>Ongoing Management:</b>Regularly review and update user permissions
                                                 as needed.</li>
+                                        </ul> ensure a seamless experience for mobile users.</li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="tab-pane fade" id="v-pills-post" role="tabpanel" aria-labelledby="v-pills-post-tab"
-                            tabindex="0">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-12">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapseThree">
+                                        Extensive Guest Post
+                                    </button>
+                                </h2>
+                                <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <h5 class="fs-2">Making sure that Analytics account is perfectly setup</h5>
                                         <h5 class="fs-2">Extensive Guest Post Research & Opportunities</h5>
                                         <h6>Amplify Your Brand’s Reach Through Strategic Guest Posting</h6>
 
@@ -500,15 +836,19 @@
                                             <li><b>Opportunity Gap Analysis: </b>Identify gaps in your competitors'
                                                 approaches to help you capitalize on unexploited opportunities.</li>
                                         </ul>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="tab-pane fade" id="v-pills-data" role="tabpanel" aria-labelledby="v-pills-data-tab"
-                            tabindex="0">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-12">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapse9" aria-expanded="false" aria-controls="collapseThree">
+                                        Google Data Studio
+                                    </button>
+                                </h2>
+                                <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
                                         <h5 class="fs-2">Google Data Studio Setup</h5>
                                         <h6>Transform Your Data into Actionable Insights</h6>
 
@@ -541,357 +881,309 @@
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="service_text text-center">
+                        <h4 class="fs-1">Website <span class="text-primary"> SEO Ranking</span> Same Factor</h4>
+                        <p>our SEO Services Help You to Improve your Ranking on Google.</p>
+                        <img src="image/gif/aniation1.gif" height="100px" width="100px" alt="">
 
-            <!-- for small view -->
-            <div class="row d-block d-lg-none">
-                <div class="col-12">
-                    <div class="accordion" id="accordionExample">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    SEO Audit
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h5 class="fs-2">What Our SEO Audit Includes</h5>
-                                    <h6>Comprehensive Analysis for Optimal Performance</h6>
-
-                                    <img src="image/seo_image/1.jpg" height="auto" width="100%" alt="">
-                                    <h5 class="my-2">Benefits of an SEO Audit</h5>
-                                    <ul>
-                                        <li><b>Identify Issues: </b> Pinpoint technical and on-page issues that may
-                                            be hindering your website’s performance.</li>
-                                        <li><b>Strategic Insights:</b> Gain a clear understanding of your current
-                                            SEO standing and actionable insights for improvement.</li>
-                                        <li><b>Prioritize Efforts:</b> Focus on high-impact areas to maximize your
-                                            SEO efforts and ROI.</li>
-                                        <li><b>Stay Competitive: </b> Understand your competitors’ strengths and
-                                            weaknesses to develop effective strategies.</li>
-                                    </ul>
-                                </div>
-                            </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-4  col-md-6">
+                    <div class="row text-start text-lg-end">
+                        <div class="col-lg-12  my-3">
+                            <h4>Internal Linking <i class="fa-solid fa-circle-check fa-fade fs-2"
+                                    style="color: #ffc400;"></i> </h4>
+                            <!-- <i class="fa-solid fa-check"></i> -->
+                            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur, debitis?</p> -->
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Keyword Research
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h5 class="fs-2">Keyword Research</h5>
-                                    <h6>The Foundation of Effective SEO</h6>
-
-                                    <img src="image/seo_image/2.jpg" height="auto" width="100%" alt="">
-                                    <h5 class="my-2">Benefits of Keyword Research</h5>
-                                    <ul>
-                                        <li><b>Targeted Traffic: </b> Attract visitors who are actively searching
-                                            for your products or services, increasing the likelihood of conversion.
-                                        </li>
-                                        <li><b>Content Relevance:</b> Create content that resonates with your
-                                            audience’s needs and questions, improving engagement.</li>
-                                        <li><b>Competitive Advantage: </b> Stay ahead of your competitors by
-                                            targeting keywords they may be overlooking.</li>
-                                        <li><b>Informed Strategy:</b> Make data-driven decisions that inform your
-                                            SEO and content marketing strategies.</li>
-                                    </ul>
-                                </div>
-                            </div>
+                        <div class="col-12 my-3">
+                            <h4>Keywords Research <i class="fa-solid fa-circle-check fa-fade fs-2"
+                                    style="color: #ffc400;"></i></h4>
+                            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur, debitis?</p> -->
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Technical Audit
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h5 class="fs-2">Technical Audit Using Paid Tools (Screaming Frog)</h5>
-                                    <h6>Uncover Hidden Issues for Optimal Performance</h6>
-
-                                    <img src="image/seo_image/3.jpg" height="auto" width="100%" alt="">
-                                    <h5 class="my-2">Benefits of Keyword Research</h5>
-                                    <ul>
-                                        <li><b>Enhanced Crawlability : </b> Improve your site’s ability to be
-                                            crawled and indexed by search engines.
-                                        </li>
-                                        <li><b>Improved User Experience : </b> Identify and resolve issues that
-                                            could hinder user experience, reducing bounce rates.</li>
-                                        <li><b>Higher Rankings: </b> Optimize technical elements that contribute to
-                                            better search engine rankings.</li>
-                                        <li><b>Data-Driven Insights: </b> Leverage data from paid tools for informed
-                                            decision-making and ongoing optimization.</li>
-                                    </ul>
-                                </div>
-                            </div>
+                        <div class="col-12 my-3">
+                            <h4>Onpage SEO <i class="fa-solid fa-circle-check fa-fade fs-2" style="color: #ffc400;"></i>
+                            </h4>
+                            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur, debitis?</p> -->
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapseThree">
-                                    Competitor Website
-                                </button>
-                            </h2>
-                            <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h5 class="fs-2">Competitor Website Analysis</h5>
-                                    <h6>Gain Insights to Outperform Your Competition</h6>
+                        <div class="col-12 my-3">
+                            <h4>Backlinks <i class="fa-solid fa-circle-check fa-fade fs-2" style="color: #ffc400;"></i></h4>
 
-                                    <img src="image/seo_image/4.jpg" height="auto" width="100%" alt="">
-                                    <h5 class="my-2">Benefits of Competitor Website Analysis</h5>
-                                    <ul>
-                                        <li><b>Identify Opportunities : </b> Discover gaps in your competitors’
-                                            strategies that you can exploit.
-                                        </li>
-                                        <li><b>Informed Decision-Making : </b> Make data-driven decisions to refine
-                                            your SEO and marketing strategies.</li>
-                                        <li><b>Benchmarking: </b> Establish benchmarks for your own performance
-                                            based on competitor insights.</li>
-                                        <li><b>Stay Ahead: </b> Adapt to industry trends and changes to maintain a
-                                            competitive edge.</li>
-                                    </ul>
-                                </div>
-                            </div>
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapseThree">
-                                    On Page Strategies
-                                </button>
-                            </h2>
-                            <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h5 class="fs-2">On-Page Strategies and Reporting</h5>
-                                    <h6>Optimize Your Website for Maximum Impact</h6>
-
-                                    <img src="image/seo_image/5.jpg" height="auto" width="100%" alt="">
-                                    <h5 class="my-3">1. Reporting and Performance Tracking</h5>
-                                    <ul>
-                                        <li><b>Monthly SEO Reports : </b> Receive comprehensive reports detailing
-                                            keyword rankings, organic traffic, and other key performance indicators
-                                            (KPIs).
-                                        </li>
-                                        <li><b>Insights and Recommendations : </b>Get actionable insights based on
-                                            performance data to continuously refine your on-page strategies.</li>
-                                    </ul>
-                                    <h5 class="my-3">2. Progress Tracking</h5>
-                                    <ul>
-                                        <li><b>Keyword Tracking : </b> Monitor changes in keyword rankings to assess
-                                            the effectiveness of optimization efforts.
-                                        </li>
-                                        <li><b>Traffic Analysis: </b>Analyze organic traffic trends to evaluate the
-                                            impact of on-page changes.</li>
-                                    </ul>
-                                </div>
-                            </div>
+                        <div class="col-12 my-3">
+                            <h4>Content Quality <i class="fa-solid fa-circle-check fa-fade fs-2"
+                                    style="color: #ffc400;"></i></h4>
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapseThree">
-                                    Console Setup
-                                </button>
-                            </h2>
-                            <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h5 class="fs-2">Console Setup & Monitoring</h5>
-                                    <h6>Maximize Your Website’s Performance with Expert Monitoring</h6>
-
-                                    <img src="image/seo_image/6.jpg" height="auto" width="100%" alt="">
-                                    <h5 class="my-3">Monitoring and Optimization</h5>
-                                    <p>1. Performance Tracking</p>
-                                    <ul>
-                                        <li><b>Keyword Performance : </b> Monitor which keywords are driving
-                                            traffic, their rankings, and click-through rates (CTR).
-                                        </li>
-                                        <li><b>Traffic Insights : </b>Analyze organic traffic trends to identify
-                                            high-performing pages and areas needing improvement.</li>
-                                    </ul>
-                                    <p>Error and Issue Monitoring
-                                    </p>
-                                    <ul>
-                                        <li><b>Indexing Errors : </b> Regularly check for indexing issues and
-                                            resolve any problems that prevent your pages from appearing in search
-                                            results.
-                                        </li>
-                                        <li><b>Mobile Usability Issues: </b>Monitor for mobile usability errors to
-                                            ensure a seamless experience for mobile users.</li>
-                                    </ul>
-                                </div>
-                            </div>
+                        <div class="col-12 my-3">
+                            <h4>Schema Markup <i class="fa-solid fa-circle-check fa-fade fs-2" style="color: #ffc400;"></i>
+                            </h4>
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapseThree">
-                                    Analytics account
-                                </button>
-                            </h2>
-                            <div id="collapse7" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h5 class="fs-2">Making sure that Analytics account is perfectly setup</h5>
-                                    <h6>Unlock Valuable Insights with Proper Analytics Setup</h6>
+                    </div>
+                </div>
+                <div class="col-lg-4 text-center d-none d-lg-block">
+                    <img src="image/seo_banner.jpg" class="shadow-lg" style="border-radius: 50%;" height="300px"
+                        width="300px" alt="">
+                </div>
+                <div class="col-lg-4  col-md-6">
+                    <div class="row">
+                        <div class="col-12  my-3">
+                            <h4> <i class="fa-solid fa-circle-check fa-fade fs-2" style="color: #ffc400;"></i> Page Speed
+                            </h4>
 
-                                    <img src="image/seo_image/7.jpg" height="auto" width="100%" alt="">
-                                    <h5 class="my-3">Data Accuracy and Monitoring</h5>
-                                    <p>1. Data Validation</p>
-                                    <ul>
-                                        <li><b>Real-Time Monitoring: </b> Use real-time reports to confirm that data
-                                            is being collected accurately as users interact with your site.
-                                        </li>
-                                        <li><b>Debugging Tools: </b>Utilize tools like Google Tag Assistant to
-                                            identify and resolve any tracking issues.</li>
-                                    </ul>
-                                    <p>2. User Access Management
-                                    </p>
-                                    <ul>
-                                        <li><b>Permissions Setup: </b> Configure user access levels for your team,
-                                            ensuring the right people have the appropriate access to analytics data.
-                                        </li>
-                                        <li><b>Ongoing Management:</b>Regularly review and update user permissions
-                                            as needed.</li>
-                                    </ul> ensure a seamless experience for mobile users.</li>
-                                    </ul>
-                                </div>
-                            </div>
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapseThree">
-                                    Extensive Guest Post
-                                </button>
-                            </h2>
-                            <div id="collapse8" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h5 class="fs-2">Making sure that Analytics account is perfectly setup</h5>
-                                    <h5 class="fs-2">Extensive Guest Post Research & Opportunities</h5>
-                                    <h6>Amplify Your Brand’s Reach Through Strategic Guest Posting</h6>
+                        <div class="col-12  my-3">
+                            <h4> <i class="fa-solid fa-circle-check fa-fade fs-2" style="color: #ffc400;"></i> Technical SEO
+                            </h4>
 
-                                    <img src="image/seo_image/8.jpg" height="auto" width="100%" alt="">
-                                    <h5 class="my-3">Our Guest Post Research Process</h5>
-                                    <p>1. Industry and Audience Analysis</p>
-                                    <ul>
-                                        <li><b>Niche Identification:</b> We start by analyzing your industry to
-                                            understand the landscape and identify key players.
-                                        </li>
-                                        <li><b>Target Audience Profiling:</b>Identify your ideal audience to ensure
-                                            that the guest posts resonate with potential customers.</li>
-                                    </ul>
-                                    <p>2. Competitor Insights
-                                    </p>
-                                    <ul>
-                                        <li><b>Competitor Research: </b> Analyze your competitors’ guest posting
-                                            strategies to uncover effective sites and topics they leverage.
-                                        </li>
-                                        <li><b>Opportunity Gap Analysis: </b>Identify gaps in your competitors'
-                                            approaches to help you capitalize on unexploited opportunities.</li>
-                                    </ul>
-                                    </ul>
-                                </div>
-                            </div>
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse9" aria-expanded="false" aria-controls="collapseThree">
-                                    Google Data Studio
-                                </button>
-                            </h2>
-                            <div id="collapse9" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    <h5 class="fs-2">Google Data Studio Setup</h5>
-                                    <h6>Transform Your Data into Actionable Insights</h6>
+                        <div class="col-12  my-3">
+                            <h4> <i class="fa-solid fa-circle-check fa-fade fs-2" style="color: #ffc400;"></i> User
+                                Experience </h4>
 
-                                    <img src="image/seo_image/9.jpg" height="auto" width="100%" alt="">
-                                    <h5 class="my-3">Our Google Data Studio Setup Process</h5>
-                                    <p>1. Understanding Your Reporting Needs</p>
-                                    <ul>
-                                        <li><b>Initial Consultation: </b> We begin by discussing your specific
-                                            reporting goals and key performance indicators (KPIs) to tailor the
-                                            setup to your business objectives.
-                                        </li>
-                                        <li><b>Data Sources Identification:</b> Identify the various data sources
-                                            you want to integrate, including Google Analytics, Google Ads, social
-                                            media platforms, and more.</li>
-                                    </ul>
-                                    <p>2. Data Source Integration
-                                    </p>
-                                    <ul>
-                                        <li><b>Connecting Accounts: </b> Design a visually appealing and intuitive
-                                            dashboard that highlights your key metrics in real time.
-                                        </li>
-                                        <li><b>Visualizations:</b> Utilize various visualization tools (charts,
-                                            graphs, tables) to present your data in a clear and engaging manner.
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+                        </div>
+                        <div class="col-12  my-3">
+                            <h4> <i class="fa-solid fa-circle-check fa-fade fs-2" style="color: #ffc400;"></i> Local SEO
+                            </h4>
+                        </div>
+                        <div class="col-12  my-3">
+                            <h4> <i class="fa-solid fa-circle-check fa-fade fs-2" style="color: #ffc400;"></i> Social
+                                Signals</h4>
+                        </div>
+                        <div class="col-12  my-3">
+                            <h4> <i class="fa-solid fa-circle-check fa-fade fs-2" style="color: #ffc400;"></i> URL Structure
+                            </h4>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-
-        <!-- Digital Marketing Services end here -->
-        <section class=" w-100" style="background-color: black; letter-spacing: 1px;">
-            <div class="bg_clip   "></div>
-            <div class="container" style="padding: 5rem 0rem;">
-                <div class="row justify-content-center text-center ">
-                    <div class="col-lg-9  text-capitalize ">
-                        <h4 class="fs-3 text-primary">Elevate Your Business with Premier SEO Services in India</h4>
-                        <h2 class="display-6 text-white mt-3" style="font-family: sans-serif !important;">Unlock Your Business Potential with 400+ Horsepower Engines in Just 6 Months!
-                        </h2>
-                        <a href="" class=" btn btn-danger p-3 mt-3 px-5 fw-bold fs-5 w-75 m-auto"> Boost Your Business. Contact Us For More Details</a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section>
+        <section class="my-5">
             <div class="container  " style="padding: 5rem 0rem;">
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
                         <div class="  text-center">
-                            <h4 class="fs-1">How Does ARV MEDIA 1998 Help To <span class="text-primary">Grow Your Business </span> Online </h4>
-                            <p>Organic Traffic Make Trust and Trust Make Sale</p>
-
+                            <h4 class="fs-1">Keyword Research Tools We Use For Our Clients </h4>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6 my-5">
-
-                        <h5 class="fs-3 fw-bold ">Our Process for Our Clinets</h5>
-                        <ol class="text-dark fw-bold ">
-                            <li class="my-1"><b class="text-primary">Step 1 :</b> Understand the Business Goal</li>
-                            <li class="my-1"><b class="text-primary">Step 2 :</b> Create All Digital Account For Trust Building</li>
-                            <li class="my-1"><b class="text-primary">Step 3 :</b> SEO & SMM For Traffic Generate</li>
-                            <li class="my-1"><b class="text-primary">Step 4 :</b> Setup Pixel for Audience Tracking</li>
-                            <li class="my-1"><b class="text-primary">Step 5 :</b> Make Post & Video Ads With Offer</li>
-                            <li class="my-1"><b class="text-primary">Step 6 :</b> Run Awareness ads. Traffic Ads for Trust Building </li>
-                            <li class="my-1"><b class="text-primary">Step 7 :</b> Run Sale & Lead Generation Ads for Profit</li>
-                            <li class="my-1"><b class="text-primary">Step 8 :</b> Remarketing For Generate every Month Profitable </li>
-                        </ol>
-
-
-                    </div>
-                    <div class="col-lg-6 d-none d-lg-block">
-                        <img src="./update-image/service/Picture1.jpg" height="auto" width="50%" alt="">
+                    <div class="col-lg-12 my-5">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-2 my-3   border-end border-dark border-2 text-center">
+                                <img src="update-image/service/c8.jpg" height="auto" width="50%" alt="">
+                            </div>
+                            <div class="col-lg-2 my-3 align-self-  border-end border-dark border-2 text-center">
+                                <img src="update-image/service/c9.jpg" height="auto" width="50%" alt="">
+                            </div>
+                            <div class="col-lg-2 my-3 align-self-ce nter border-end border-dark border-2 text-center">
+                                <img src="update-image/service/c3.jpg" height="auto" width="50%" alt="">
+                            </div>
+                            <div class="col-lg-2 my-3 align-self-  border-end border-dark border-2 text-center">
+                                <img src="update-image/service/c13.jpg" height="auto" width="50%" alt="">
+                            </div>
+                            <div class="col-lg-2 my-3 align-self-cent er text-center">
+                                <img src="update-image/service/c14.jpg" height="auto" width="50%" alt="">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
+        <div class="container margin">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="service_text text-center">
+                    <h4 class="fs-1">Why SEO In Important For Your Business In Today Days!</h4>
+                    <img src="image/gif/aniation1.gif" height="100px" width="100px" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why-seo1.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Organic Traffic</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why-seo-2.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Cost-Effectiveness</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why3.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">High ROI</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why4.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Increased Visibility And
+                        Credibility</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why5.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Local Searches SEO</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why6.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Mobile Optimization</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why7.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">User Engagement</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why8.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Growth In Voice Search</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why9.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Longevity And Sustainability</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why10.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Adaptability</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why11.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Consumer Trust</h5>
+                </div>
+            </div>
+            <div class="col-lg-3 my-3 ">
+                <div class="shadow-lg py-3 h-100 rounded">
+                    <div class="icon_box_center m-auto mb-3">
+                        <img src="image/icon/why12.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="fs-6 fw-bold text-center">Cost-Effectiveness</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="container   my-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="service_text text-center">
+                    <h4 class="fs-1">Benefits of SEO Services </h4>
+                    <img src="image/gif/aniation1.gif" height="100px" width="100px" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-3 text-center my-4">
+                <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                    <div class="icon_box_center m-auto">
+                        <img src="image/icon/1.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="mt-4">Quality of Traffic</h5>
+                    <p>You can draw in visitors
+                        who are genuinely
+                        interested in the
+                        products you offer.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 text-center my-4">
+                <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                    <div class="icon_box_center m-auto">
+                        <img src="image/icon/2.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="mt-4">Free Traffic</h5>
+                    <p>While ads dominate a significant
+                        portion of SERPs, organic traffic
+                        refers to the visitors you attract
+                        without having to pay.
 
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 text-center my-4">
+                <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                    <div class="icon_box_center m-auto">
+                        <img src="image/icon/3.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="mt-4">Conversion</h5>
+                    <p>Achieving top search engine
+                        rankings leads to higher
+                        conversion rates.
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 text-center my-4">
+                <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                    <div class="icon_box_center m-auto">
+                        <img src="image/icon/4.png" height="50px" width="50px" alt="">
+                    </div>
+                    <h5 class="mt-4">Better Online Visibility
+                    </h5>
+                    <p>Ranking at the top of the
+                        first-page search results
+                        increases your brand
+                        exposure.
+
+                    </p>
+                </div>
+            </div>
+            <div class="col-lg-3 text-center my-4">
+                <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                    <div class="icon_box_center m-auto">
+                        <img src="image/icon/5.png" height="70px" width="70px" alt="">
+                    </div>
+                    <h5 class="mt-4">Higher Domain Authority</h5>
+                    <p>An effective SEO strategy
+                        boosts your website’s
+                        domain authority and
+                        reputation.
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
         <!-- <section>
             <div class="container">
                 <div class="row">
@@ -950,12 +1242,12 @@
                         <td><img src="update-image/service/c11.jpg" height="auto" width="50%" alt=""></td>
                         <td><img src="update-image/service/c12.jpg" height="auto" width="50%" alt=""></td>
                     </tr>
- 
+
                 </table>
             </div>
         </div>
         <!-- Our Agency Clients End -->
-        
+
 
 
 
@@ -1074,5 +1366,79 @@
         <?php
         // include "review.php";
         ?>
+        <!-- Facts Start -->
+        <div class="container-xxl  fact py-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container py-5 px-lg-5">
+                <h4 class="mb-5 fs-2 text-center">ARV MEDIA 1998 IN NUMBERS IN <span class="text-primary">JUST 4 MONTHS</span></h4>
+                <div class="row justify-content-center g-4">
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
+                        <div class="shadow-lg h-100 p-3 rounded ">
+                            <img src="update-image/icon1.png" alt="">
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">20</h1>
+                                <h1>+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold ">Website Design </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
+                        <div class="shadow-lg h-100 p-3 rounded">
+                            <img src="update-image/icon2.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">500</h1>
+                                <h1>+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Lead Generated
+                            </p>
+                        </div>
+                    </div>
 
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
+                        <div class="shadow-lg p-3 h-100 rounded">
+                            <img src="update-image/icon3.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">1</h1>
+                                <h1>+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Subscribers on YouTube
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.s">
+                        <div class="shadow-lg p-3 h-100 rounded">
+                            <img src="update-image/icon4.jpg" height="60px" width="60px" alt="">
+
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">25</h1>
+                                <h1>K+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Client Across India </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.s">
+                        <div class="shadow-lg p-3 h-100 rounded">
+                            <img src="update-image/icon5.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">700</h1>
+                                <h1>K+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Keyword Rank On Google
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.s">
+                        <div class="shadow-lg p-3 h-100 rounded">
+                            <img src="update-image/icon6.jpg" height="60px" width="60px" alt="">
+
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">2</h1>
+                                <h1>Lakh+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Make Profit for our Clients </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Facts End -->
         <?php include "footer.php"; ?>

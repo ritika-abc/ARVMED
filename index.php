@@ -70,55 +70,38 @@
         </div>
         <!-- Spinner End -->
         <!-- Navbar & Hero Start -->
-        <div class="container   ">
+        <div class="container-xxl position-relative p-0 ">
             <?php include "header.php"; ?>
 
-            <div style="padding: 6rem 0rem;">
-                <!-- <iframe width="100%" height="100%" style="object-fit: cover;object-position: center;"
+            <div class="box position-relative">
+                <iframe width="100%" height="100%" style="object-fit: cover;object-position: center;"
                     src="https://www.youtube.com/embed/usyYMVoJBBs?autoplay=1&mute=1&loop=1&playlist=usyYMVoJBBs&controls=0&modestbranding=1&rel=0"
                     title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-                <div class="row  flex-column-reverse flex-lg-row">
-                    <div class="col-lg-6">
-                        <div class=" ">
-                            <h4 class="t display-6 mb-4">Boost Your Business And Revenue With The Experts In <span class="text-primary"> Digital Marketing!</span></h4>
-                            <!-- <h1 class="text-primary   font">Drive Awareness, Boost Engagement, Accelerate Sales, and Grow Online</h1> -->
-                            <p class="fs-5   mt-4">Organic Traffic Make Trust and Trust Make Sale</p>
-                            <a href="" class="btn btn-danger px-4 py-3 rounded-pill text-white fw-bold shadow-lg">Let’s Start With Us.</a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 text-center">
-                        <img src="image/gif/seo.gif" height="auto" width="80%" alt="">
-                    </div>
+                <div class="banner_content  responsive_banner">
+                    <h4 class="text-white display-6 mb-4">Maximize Your Brand’s Impact: Work with Premier Digital Experts</h4>
+                    <h1 class="text-primary   font">Drive Awareness, Boost Engagement, Accelerate Sales, and Grow Online</h1>
+                    <p class="fs-5 text-white mt-4">“We have a Complete Solution For Internet Marketing.”</p>
                 </div>
             </div>
         </div>
         <!-- Navbar & Hero End -->
 
 
-
-
-
-
-
         <!-- Our Agency Clients Start -->
-        <div class="container-xxl py-5 wow fadeInUp" style="background-color: #f7f9fb;" data-wow-delay="0.1s">
+        <div class="container-xxl py-5 wow fadeInUp d-none d-md-block" style="background-color: #f7f9fb;" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <!-- <p class="section-title text-secondary justify-content-center"><span></span>Our  Clients<span></span></p> -->
-                <h1 class="text-center mb-3">Our Clients</h1>
-                <p class="section-title text-secondary justify-content-center"><span></span><span></span></p>
+                <div class="heading_border   position-relative my-5">
+                    <h1 class="text-center ">Our Clients</h1>
+                    <img src="image/border.png" class="position-absolute start-50 translate-middle" height="20px" width="80px" alt="">
+                </div>
 
-                <p class="text-center mt-2 mb-5  " sty>At ARV MEDIA 1998, we take pride in our diverse portfolio of clients across various industries.
-                </p>
-                <!-- <div class="owl-carousel logo">
-                    <img src="image/clients/1.jpg" alt="">
-                    <img src="image/clients/2.jpg" alt="">
-                    <img src="image/clients/2.jpg" alt="">
-                    <img src="image/clients/2.jpg" alt="">
-                </div> -->
+
+
+
                 <table class="table text-center table-bordered table align-middle">
                     <tr>
                         <td><img src="./update-image/client/1.jpg" height="auto" width="50%" alt=""></td>
@@ -148,329 +131,910 @@
             </div>
         </div>
         <!-- Our Agency Clients End -->
-
-
-
-
-
         <!-- Digital Marketing Services start here -->
+
+        <div class="container d-block d-md-none my-5">
+            <div class="row justify-content-center">
+                <div class="heading_border   position-relative my-5">
+                    <h1 class="text-center ">Our Clients</h1>
+                    <img src="image/border.png" class="position-absolute start-50 translate-middle" height="20px" width="80px" alt="">
+                </div>
+                <div class="col-10">
+
+                    <div class="row">
+
+                        <div class="col-3 text-center"><img src="./update-image/client/1.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/2.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/3.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/4.jpg" height="auto" width="100%" alt=""> </div>
+                        <div class="col-3 text-center"><img src="./update-image/client/5.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/16.jpg" height="auto" width="100%" alt=""></div>
+
+
+                        <div class="col-3 text-center"><img src="./update-image/client/15.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/7.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/8.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/9.jpg" height="auto" width="100%" alt=""> </div>
+                        <div class="col-3 text-center"><img src="./update-image/client/10.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/17.jpg" height="auto" width="100%" alt=""></div>
+
+
+                        <div class="col-3 text-center"><img src="./update-image/client/11.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/12.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/13.jpg" height="auto" width="100%" alt=""></div>
+                        <div class="col-3 text-center"><img src="./update-image/client/14.jpg" height="auto" width="100%" alt=""> </div>
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+        <div class="   py-5 bg-primary " data-wow-delay="0.1s">
+            <div class="container-fluid py-5 px-lg-5">
+                <h4 class="mb-5 fs-2 text-center">ARV MEDIA 1998 IN NUMBERS IN <span class="text-white position-relative">JUST 4 MONTHS
+                        <img src="image/border.png" height="20px" width="130px" class="position-absolute mt-2 d-none d-md-block translate-middle start-50 top-100" alt="">
+                    </span>
+
+
+                </h4>
+                <div class="row justify-content-center g-4">
+                    <div class="col-6 col-md-3 border-end border-dark border-3 col-lg-2 text-center wow fadeIn" data-wow-delay="0.1s">
+                        <div class="    h-100 p-3 rounded ">
+                            <img src="image/num1.png" alt="">
+                            <div class="d-flex mt-3 justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">20</h1>
+                                <h1>+</h1>
+                            </div>
+                            <p class=" mb-0   text-dark fw-bold ">Website Design </p>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-3 border-end border-dark border-3 col-lg-2 text-center wow fadeIn" data-wow-delay="0.3s">
+                        <div class="  h-100 p-3 rounded">
+                            <img src="image/num2.png" alt="">
+                            <div class="d-flex mt-3 justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">500</h1>
+                                <h1>+</h1>
+                            </div>
+                            <p class=" mb-0   text-dark fw-bold">Lead Generated
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-6 col-md-3 border-end border-dark border-3 col-lg-2 text-center wow fadeIn" data-wow-delay="0.7s">
+                        <div class="s  p-3 h-100 rounded">
+                            <img src="image/num3.png" alt="">
+                            <div class="d-flex mt-3 justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">1</h1>
+                                <h1>+</h1>
+                            </div>
+                            <p class=" mb-0    text-dark fw-bold">Subscribers on YouTube
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-3 border-end border-dark border-3 col-lg-2 text-center wow fadeIn" data-wow-delay="0.s">
+                        <div class=" p-3 h-100 rounded">
+                            <img src="image/num4.png" height="60px" width="60px" alt="">
+
+                            <div class="d-flex mt-3 justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">25</h1>
+                                <h1>K+</h1>
+                            </div>
+                            <p class=" mb-0    text-dark fw-bold">Client Across India </p>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-3 border-end border-dark border-3 col-lg-2 text-center wow fadeIn" data-wow-delay="0.s">
+                        <div class="  p-3 h-100 rounded">
+                            <img src="image/num5.png" alt="">
+                            <div class="d-flex mt-3 justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">700</h1>
+                                <h1>K+</h1>
+                            </div>
+                            <p class=" mb-0    text-dark fw-bold">Keyword Rank On Google
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-6 col-md-3 col-lg-2    text-center wow fadeIn" data-wow-delay="0.s">
+                        <div class="  p-3 h-100 rounded">
+                            <img src="image/num6.png" height="60px" width="60px" alt="">
+
+                            <div class="d-flex mt-3 justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">2</h1>
+                                <h1>Lakh+</h1>
+                            </div>
+                            <p class=" mb-0   text-dark fw-bold">Make Profit for our Clients </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
         <section class="" style="background-color: #f2f2f2; padding: 5rem 0rem;">
             <div class="container  ">
                 <div class="row position-relative justify-content-center">
-                    <div class="col-lg-6">
-                        <div class="text-center ">
-                            <h4 class="t display-6 mb-4">Our <span class="text-primary">Digital Marketing</span> Services In India</h4>
-                            <!-- <h1 class="text-primary   font">Drive Awareness, Boost Engagement, Accelerate Sales, and Grow Online</h1> -->
-                            <p class="fs-5   mt-4">our services Provide ( Traffic, Lead Generation and Sale )</p>
-
+                    <div class="col-lg-5">
+                        <div class="service_text text-center ">
+                            <h4 class="fs-1">Our Digital Marketing Services In India</h4>
                         </div>
                     </div>
                     <div class="">
                         <img src="image/gif/aniation1.gif" height="auto" width="15%" style="z-index: 1;"
                             class="position-absolute top-50  start-0" alt="">
                     </div>
-
                 </div>
                 <div class="row">
-                    <div class="col-md-6 col-lg-3 text-center my-5 digital_marketing">
+                    <div class="col-6 col-lg-3 text-center my-5 digital_marketing">
                         <div class="service_cards pb-5 bg-white rounded h-100  text-center">
-                            <div class="bg-   p-3 mb-4">
-                                <img src="update-image/service/1.jpg" height="auto" style="object-fit: cover;" width="80%"
+                            <!-- <img src="image/seo.jpg" height="auto" width="100%" alt="SEO image"> -->
+                            <div class="bg-  mb-4">
+                                <img src="image/card1-seo.JPG" height="auto" style="object-fit: cover;" width="80%"
                                     alt="SEO image">
                             </div>
                             <div class="pb-4 px-2 ">
-                                <p> Stay ahead of your biggest competitors with India’s top SEO company.
+
+                                <p>Stay ahead of your biggest competitors with India’s top SEO company.
                                     Attract amazing leads using the power of SEO. We understand what Google looks for to help you rank higher in search results!
+
+                                </p>
+                            </div>
+                            <!-- <a href="enquiry.php" class="btn btn-dark">Enquiry Now</a>
+                            <a href="seo-services.php" class="btn btn-outline-dark">Details</a> -->
+                        </div>
+                        <a style="margin-top: -27px;" href=""
+                            class="btn btn-danger  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">Know More</a>
+                    </div>
+                    <div class="col-6 col-lg-3 text-center my-5 digital_marketing">
+                        <div class="service_cards bg-white pb-5 rounded h-100   text-center">
+                            <div class="bg-  mb-4">
+                                <img src="image/image2-seo.jpg"
+                                    height="auto" style="object-fit: cover;" width="80%" alt="SEO image">
+                            </div>
+                            <div class="pb-4 px-2  ">
+
+                                <p>Get a stunning website that drives results! Our expert web design services create user-friendly, mobile- responsive, and visually appealing sites tailored to your business needs. Grow your online presence and engage customers like never before.
                                 </p>
                             </div>
 
                         </div>
                         <a style="margin-top: -27px;" href=""
-                            class="btn btn-secondary  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">know more
-                        </a>
+                            class="btn btn-danger  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">Know More</a>
                     </div>
-                    <div class="col-md-6 col-lg-3 text-center my-5 digital_marketing">
-                        <div class="service_cards pb-5 bg-white rounded h-100  text-center">
-                            <div class="bg-   p-3 mb-4">
-                                <img src="update-image/service/2.jpg" height="auto" style="object-fit: cover;" width="80%"
-                                    alt="SEO image">
-                            </div>
-                            <div class="pb-4 px-2 ">
-                                <p> Get a stunning website that drives results! Our expert web design services create user-friendly, mobile- responsive, and visually appealing sites tailored to your business needs. Grow your online presence and engage customers like never before.
-                                </p>
-                            </div>
+                    <div class="col-6 align-items-center col-lg-3 text-center my-5 digital_marketing">
+                        <div class="service_cards bg-white pb-5 rounded h-100  text-center">
+                            <div class="bg-  mb-4">
+                                <img src="image/image-seo3.jpg"
+                                    height="auto" style="object-fit: cover;" width="80%" alt="SEO image">
 
-                        </div>
-                        <a style="margin-top: -27px;" href=""
-                            class="btn btn-secondary  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">know more
-                        </a>
-                    </div>
-                    <div class="col-md-6 col-lg-3 text-center my-5 digital_marketing">
-                        <div class="service_cards pb-5 bg-white rounded h-100  text-center">
-                            <div class="bg-   p-3 mb-4">
-                                <img src="update-image/service/3.png" height="auto" style="object-fit: cover;" width="80%"
-                                    alt="SEO image">
                             </div>
-                            <div class="pb-4 px-2 ">
+                            <!-- Whereas recognition of the inherent dignity -->
+                            <div class="pb-4 px-2  ">
+
                                 <p>Let our experts handle your PPC campaign. Get better results with our proven performance marketing strategies!
                                 </p>
                             </div>
 
                         </div>
                         <a style="margin-top: -27px;" href=""
-                            class="btn btn-secondary  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">know more
-                        </a>
+                            class="btn btn-danger  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">Know More</a>
                     </div>
-                    <div class="col-md-6 col-lg-3 text-center my-5 digital_marketing">
-                        <div class="service_cards pb-5 bg-white rounded h-100  text-center">
-                            <div class="bg-   p-3 mb-4">
-                                <img src="update-image/service/4.png" height="auto" style="object-fit: cover;" width="80%"
-                                    alt="SEO image">
+                    <div class="col-6 align-items-center col-lg-3 text-center my-5 digital_marketing">
+                        <div class="service_cards bg-white pb-5 rounded h-100  text-center">
+                            <div class="bg-  mb-4">
+                                <img src="image/image-4.JPG"
+                                    height="auto" style="object-fit: cover;" width="80%" alt="SEO image">
+
                             </div>
-                            <div class="pb-4 px-2 ">
-                                <p> From bringing in leads for your business to boosting sales with a better return on ad spend (ROAS), we know exactly how the Meta ecosystem works.
+                            <!-- Whereas recognition of the inherent dignity -->
+                            <div class="pb-4 px-2  ">
+
+                                <p>From bringing in leads for your business to boosting sales with a better return on ad spend (ROAS), we know exactly how the Meta ecosystem works.
                                 </p>
                             </div>
+
                         </div>
                         <a style="margin-top: -27px;" href=""
-                            class="btn btn-secondary  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">know more
-                        </a>
+                            class="btn btn-danger  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">Know More</a>
                     </div>
-
                 </div>
             </div>
         </section>
         <!-- Digital Marketing Services end here -->
+
+        <section class="margin">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="service_text text-center  ">
+                            <h4 class="fs-1">How Does ARV MEDIA 1998 Help To <span class="text-warning">Grow Your Business</span> Online</h4>
+                            <p class="fw-bold">Organic Traffic Make Trust and Trust Make Sale</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8 col-md-8 my-5">
+                        <h4>Our Processfor Our Clinets</h4>
+                        <ul class="mx-3">
+                            <li class="my-2 fs-5 fw-bold">Step 1 - Understand the Business Goal</li>
+                            <li class="my-2 fs-5 fw-bold">Step 2 - Create All Digital Account For Trust Building</li>
+                            <li class="my-2 fs-5 fw-bold">Step 3 - SEO & SMM For Traffic Generate </li>
+                            <li class="my-2 fs-5 fw-bold">Step 4 - Setup Pixel for Audience Tracking </li>
+                            <li class="my-2 fs-5 fw-bold">Step 5 - Make Post & Video Ads With Offer</li>
+                            <li class="my-2 fs-5 fw-bold">Step 6 - Run Awareness ads. Traffic Ads for Trust Building </li>
+                            <li class="my-2 fs-5 fw-bold">Step 7 - Run Sale & Lead Generation Ads for Profit </li>
+                            <li class="my-2 fs-5 fw-bold">Step 8 - Remarketing For Generate every Month Profitable </li>
+                        </ul>
+                    </div>
+                    <div class="col-4 d-none d-md-block">
+                        <img src="image/service.png" height="auto" width="100%" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <style>
+            .my_btn_bg {
+                /* clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 25% 100%, 0% 50%); */
+                border-radius: 10px 10px 100px 100px !important;
+            }
+        </style>
+
+
         <section class=" w-100" style="background-color: black; letter-spacing: 1px;">
             <div class="bg_clip   "></div>
             <div class="container" style="padding: 5rem 0rem;">
                 <div class="row justify-content-center text-center ">
                     <div class="col-lg-9  text-capitalize ">
-                        <h4 class="fs-3 text-primary">Elevate Your Business with Premier SEO Services in India</h4>
+                        <h4 class="fs-3 text-primary">Elevate Joui Business with Piemiei SEO Seivices in India</h4>
                         <h2 class="display-6 text-white mt-3" style="font-family: sans-serif !important;">Unlock Your Business Potential with 400+ Horsepower Engines in Just 6 Months!
                         </h2>
-                        <a href="" class=" btn btn-danger p-3 mt-3 px-5 fw-bold fs-5 w-75 m-auto"> Boost Your Business. Contact Us For More Details</a>
+                        <a href="" class=" btn btn-danger p-3 mt-3 px-5 fw-bold fs-5 w-75 m-auto my_btn_bg"> Boost Your Business
+                            Click Here
+                            For More Details</a>
                     </div>
                 </div>
             </div>
         </section>
 
-        <section>
+        <section style="background-color: #97979736;">
             <div class="container  " style="padding: 5rem 0rem;">
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
                         <div class="  text-center">
-                            <h4 class="fs-1">How Does ARV MEDIA 1998 Help To <span class="text-primary">Grow Your Business </span> Online </h4>
-                            <p>Organic Traffic Make Trust and Trust Make Sale</p>
-
+                            <h4 class="fs-1">Tailored Digital Marketing Packages for Startups: Boost Your Growth in 1 Year! </h4>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-6 my-5">
-
-                        <h5 class="fs-3 fw-bold ">Our Process for Our Clinets</h5>
-                        <ol class="text-dark fw-bold ">
-                            <li class="my-1"><b class="text-primary">Step 1 :</b> Understand the Business Goal</li>
-                            <li class="my-1"><b class="text-primary">Step 2 :</b> Create All Digital Account For Trust Building</li>
-                            <li class="my-1"><b class="text-primary">Step 3 :</b> SEO & SMM For Traffic Generate</li>
-                            <li class="my-1"><b class="text-primary">Step 4 :</b> Setup Pixel for Audience Tracking</li>
-                            <li class="my-1"><b class="text-primary">Step 5 :</b> Make Post & Video Ads With Offer</li>
-                            <li class="my-1"><b class="text-primary">Step 6 :</b> Run Awareness ads. Traffic Ads for Trust Building </li>
-                            <li class="my-1"><b class="text-primary">Step 7 :</b> Run Sale & Lead Generation Ads for Profit</li>
-                            <li class="my-1"><b class="text-primary">Step 8 :</b> Remarketing For Generate every Month Profitable </li>
-                        </ol>
-
-
+                    <div class="col-lg-4 my-5">
+                        <div class="package_card bg-white py-3 shadow-lg rounded h-100 bg-  px-3 pt-2 ">
+                            <h5 class="bg-primary text-white p-3 text-center mt-2 ">STARTUP</h5>
+                            <ol class="text-dark fw-bold ">
+                                <li>40 Promoter </li>
+                                <li>50 Blog For Google Ranking</li>
+                                <li>150 Social Media Poster</li>
+                                <li>100 Testimonial Reels </li>
+                                <li>30 Information Video</li>
+                                <li>1 Website For 1 Year</li>
+                                <li>40 Facebook Accounts</li>
+                                <li>40 Instagram Accounts</li>
+                                <li> Pinterest Accounts</li>
+                                <li>Linkedin Accounts</li>
+                                <li>Twitter Accounts</li>
+                                <li>Quora Accounts</li>
+                                <li>YouTube Channel</li>
+                                <li> Year Support</li>
+                                <li> Year SEO Services</li>
+                            </ol>
+                            <a href="" class="btn btn-light w-100 shadow-lg p-2 fw-bold">75,000 INR /
+                                900 USD For 1 Year</a>
+                        </div>
                     </div>
-                    <div class="col-lg-6 d-none d-lg-block">
-                        <img src="./update-image/service/Picture1.jpg" height="auto" width="50%" alt="">
+                    <div class="col-lg-4 my-5">
+                        <div
+                            class="package_card  bg-white py-3 border border-dark border-3 shadow-lg rounded h-100 bg-  px-3 pt-2 ">
+                            <h5 class="bg-primary fw-bold mb-4  text-white p-3 text-center mt-2 ">ENTREPRENEUR</h5>
+                            <ol class="text-dark fw-bold ">
+                                <li>40 Promoter </li>
+                                <li>50 Blog For Google Ranking</li>
+                                <li>150 Social Media Poster</li>
+                                <li>100 Testimonial Reels </li>
+                                <li>30 Information Video</li>
+                                <li>1 Website For 1 Year</li>
+                                <li>40 Facebook Accounts</li>
+                                <li>40 Instagram Accounts</li>
+                                <li> Pinterest Accounts</li>
+                                <li>Linkedin Accounts</li>
+                                <li>Twitter Accounts</li>
+                                <li>Quora Accounts</li>
+                                <li>YouTube Channel</li>
+                                <li> Year Support</li>
+                                <li> Year SEO Services</li>
+                            </ol>
+                            <a href="" class="btn btn-light w-100 shadow-lg p-2 fw-bold">75,000 INR /
+                                900 USD For 1 Year</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 my-5">
+                        <div class="package_card bg-white py-3 shadow-lg rounded h-100 bg-  px-3 pt-2 ">
+                            <h5 class="bg-primary text-white p-3 text-center mt-2 ">BUSINESS</h5>
+                            <ol class="text-dark fw-bold ">
+                                <li>40 Promoter </li>
+                                <li>50 Blog For Google Ranking</li>
+                                <li>150 Social Media Poster</li>
+                                <li>100 Testimonial Reels </li>
+                                <li>30 Information Video</li>
+                                <li>1 Website For 1 Year</li>
+                                <li>40 Facebook Accounts</li>
+                                <li>40 Instagram Accounts</li>
+                                <li> Pinterest Accounts</li>
+                                <li>Linkedin Accounts</li>
+                                <li>Twitter Accounts</li>
+                                <li>Quora Accounts</li>
+                                <li>YouTube Channel</li>
+                                <li> Year Support</li>
+                                <li> Year SEO Services</li>
+                            </ol>
+                            <a href="" class="btn btn-light w-100 shadow-lg p-2 fw-bold">75,000 INR /
+                                900 USD For 1 Year</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- <section>
+        <div class="container margin">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="service_text text-center">
+                        <h4 class="fs-1">Why Hire ARV MEDIA 1998 For Your Business Growth</h4>
+                        <img src="image/gif/aniation1.gif" height="100px" width="100px" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Wider Reach.png" height="50px" width="50px" alt="">
+                        </div>
+                        <h5 class="mt-4">Wider Reach</h5>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Cost-Effective.png" height="50px" width="50px" alt="">
+                        </div>
+                        <h5 class="mt-4">Cost-Effective</h5>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Targeted Marketing.png" height="50px" width="50px" alt="">
+                        </div>
+                        <h5 class="mt-4">Targeted Marketing</h5>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Measurable Results.png" height="50px" width="50px" alt="">
+                        </div>
+                        <h5 class="mt-4">Measurable Results
+                        </h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Brand Awareness.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Brand Awareness</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Improved Customer Engagement.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Improved Customer Engagement</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Increased Sales and Leads.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Increased Sales and Leads</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Focus on ROI.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Focus on ROI</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Strong Client Relationships.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Strong Client Relationships
+                        </h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Creative and Innovative Strategies.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Creative and Innovative
+                            Strategies
+
+                        </h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Flexible and Scalable Solutions.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Flexible and Scalable Solutions</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/Commitment to Excellence.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Commitment to Excellence
+                        </h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+        <div class="box_conteiner">
             <div class="container">
-                <div class="row">
-                    <div class="col-8">
-                        <div class="row">
-                            <div class="col-4">
-                                <img src="1.png" height="auto" width="100%" alt="">
-                                <p></p>
-                            </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <h4 class="mb-5 text-center text-white fs-3">How Does ARV MEDIA 1998 Help Your Business Grow
+                            Digitally?
+                        </h4>
+
+                    </div>
+                </div>
+            </div>
+            <style>
+                .icon_bg img {
+                    height: auto;
+                    width: 40% !important;
+                    /* transform: scale(0.8); */
+                }
+            </style>
+            <div class="owl-carousel caro">
+                <div class="item ">
+                    <div class="bg-white d-block shadow-lg pb-3 rounded icon_bg">
+                        <img src="image/gif/1.gif" class="border-bottom border-dark border-2 sshadow-lg" height="300px"
+                            width="100%" style="object-fit: cover;" alt="">
+                        <!-- <img src="image/icon/why3.png" height="auto" width="50%" alt=""> -->
+                        <div class="img_content_box text-center text-dark mt-2 p-2">
+                            <h5 class="fw-bold mb-2">Increases Digital Reach</h5>
+
+                        </div>
+                    </div>
+
+                </div>
+                <div class="item">
+                    <div href="" class="bg-white d-block pb-3 shadow-lg rounded icon_bg">
+                        <img src="image/gif/2.gif" class="border-bottom border-dark border-2 sshadow-lg" height="300px"
+                            width="100%" style="object-fit: cover;" alt="">
+                        <div class="img_content_box text-center text-dark mt-2 p-2">
+                            <h5 class="fw-bold mb-2">Connecting With Your Ideal Audience</h5>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div href="" class="bg-white d-block pb-3 shadow-lg rounded icon_bg">
+                        <img src="image/gif/3.gif" class="border-bottom border-dark border-2 sshadow-lg" height="300px"
+                            width="100%" style="object-fit: cover;" alt="">
+                        <div class="img_content_box text-center text-dark mt-2 p-2">
+                            <h5 class="fw-bold mb-2">Cost-effective Branding</h5>
+
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div href="" class="bg-white d-block pb-3 shadow-lg rounded icon_bg">
+                        <img src="image/gif/6.gif" class="border-bottom border-dark border-2 sshadow-lg" height="300px"
+                            width="100%" style="object-fit: cover;" alt="">
+                        <div class="img_content_box text-center text-dark mt-2 p-2">
+                            <h5 class="fw-bold mb-2">Increase Earnings</h5>
+
+
                         </div>
                     </div>
                 </div>
             </div>
-        </section> -->
+        </div>
 
-
-        <section class=" w-100" style="background-color: black; letter-spacing: 1px;">
-            <div class="bg_clip   "></div>
-            <div class="container" style="padding: 5rem 0rem;">
-                <div class="row   ">
-                    <div class="col-lg-6  text-capitalize ">
-                        <h4 class="fs-3 text-primary">Let’s Work On Your Project</h4>
-                        <h2 class="h6 text-white mt-3" style="font-family: sans-serif !important;">Get in touch to our Digital Marketing Experts at ARV MEDIA 1998
-                        </h2>
-
-                    </div>
-                    <div class="col-lg-6">
-                        <a href="" class=" btn btn-danger p-3 mt-3 px-5 fw-bold  w-50 m-auto">Contact Us.
-                            Direct Our Team
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+        <!-- Facts Start -->
         <!-- Our Agency Clients Start -->
-        <div class="container-xxl py-5 wow fadeInUp" style="background-color: #f7f9fb;" data-wow-delay="0.1s">
+        <div class="container-xxl py-5 wow fadeInUp d-none d-md-block" style="background-color: #f7f9fb;" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <!-- <p class="section-title text-secondary justify-content-center"><span></span>Our  Clients<span></span></p> -->
-                <h1 class="text-center fs-4 mb-3">Our Expert Team Use These Tools For Grow Your Business</h1>
+                <div class="heading_border   position-relative my-5">
+                    <h4 class="mb-5 fs-2 text-center">Our Expert Team Use These Tools For <span class="text-  position-relative">Grow Your Business
+                            <img src="image/border.png" height="20px" width="170px" class="position-absolute mt-2 d-none d-md-block translate-middle start-50 top-100" alt="">
+                        </span>
+
+
+                    </h4>
+                </div>
 
                 <table class="table text-center table-bordered table align-middle">
                     <tr>
-                        <td><img src="update-image/service/c1.jpg" height="auto" width="50%" alt=""></td>
-                        <td><img src="update-image/service/c2.jpg" height="auto" width="50%" alt=""></td>
-                        <td><img src="update-image/service/c3.jpg" height="auto" width="50%" alt=""></td>
-                        <td><img src="update-image/service/c4.jpg" height="auto" width="50%" alt=""> </td>
-                        <td><img src="update-image/service/c5.jpg" height="auto" width="50%" alt=""></td>
-                        <td><img src="update-image/service/c6.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index1.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index2.png" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index3.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index4.jpg" height="auto" width="50%" alt=""> </td>
+                        <td><img src="image/index5.png" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index6.png" height="auto" width="50%" alt=""></td>
                     </tr>
                     <tr>
-                        <td><img src="update-image/service/c7.jpg" height="auto" width="50%" alt=""></td>
-                        <td><img src="update-image/service/c8.jpg" height="auto" width="50%" alt=""></td>
-                        <td><img src="update-image/service/c9.jpg" height="auto" width="50%" alt=""></td>
-                        <td><img src="update-image/service/c10.jpg" height="auto" width="50%" alt=""> </td>
-                        <td><img src="update-image/service/c11.jpg" height="auto" width="50%" alt=""></td>
-                        <td><img src="update-image/service/c12.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index7.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index8.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index9.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index10.jpg" height="auto" width="50%" alt=""> </td>
+                        <td><img src="image/index11.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="image/index12.jpg" height="auto" width="50%" alt=""></td>
                     </tr>
- 
+
                 </table>
             </div>
         </div>
+        <div class="container d-block d-md-none my-5">
+            <h4 class="mb-5 fs-2 text-center">Our Expert Team Use These Tools For <span class="text-  position-relative">Grow Your Business
+                    <img src="image/border.png" height="20px" width="170px" class="position-absolute mt-2 d-none d-md-block translate-middle start-50 top-100" alt="">
+                </span>
+
+
+            </h4>
+            <div class="row">
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index1.jpg"   class=" " height="auto" width="100%" alt=""></div></div>
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index2.png"   class=" " height="auto" width="100%" alt=""></div></div>
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index3.jpg"   class=" " height="auto" width="100%" alt=""></div></div>
+                <div class="col-4 my-2 "><div class="border border-1  h-100 border-dark p-2"> <img src="image/index4.jpg"   class=" " height="auto" width="100%" alt=""> </div></div>
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index5.png"   class=" " height="auto" width="100%" alt=""></div></div>
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index6.png"   class=" " height="auto" width="100%" alt=""></div></div>
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index7.jpg"   class=" " height="auto" width="100%" alt=""></div></div>
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index8.jpg"   class=" " height="auto" width="100%" alt=""></div></div>
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index9.jpg"   class=" " height="auto" width="100%" alt=""></div></div>
+                <div class="col-4 my-2 "><div class="border border-1  h-100 border-dark p-2"> <img src="image/index10.jpg"  class=" "  height="auto" width="100%" alt=""> </div></div>
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index11.jpg"  class=" "  height="auto" width="100%" alt=""></div></div>
+                <div class="col-4 my-2 "><div class="border border-1 h-100  border-dark p-2"> <img src="image/index12.jpg"  class=" "  height="auto" width="100%" alt=""></div></div>
+            </div>
+        </div>
         <!-- Our Agency Clients End -->
-        
-
-
-
-        <!-- <section>
-            <div class="container my-5">
-                <div class="row justify-content-center my-5">
-                    <div class="col-lg-8 ">
+        <!-- Facts End -->
+        <style>
+            .fixed_bg {
+                background-image: linear-gradient(rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.438)), url(people-creating-new-project_23-2147656719.jpg);
+                background-size: cover;
+                background-attachment: fixed;
+                padding: 5rem 0rem;
+            }
+        </style>
+        <div class="fixed_bg">
+            <div class="container ">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8 position-relative">
                         <div class="service_text text-center  ">
-                            <h4 class="fs-1 text- ">FAQ</h4>
+                            <h4 class="fs-1 text-white">Our Expert Web Designers and Developers
+                                Specialize In
+                                Industry-Leading Platforms</h4>
 
                         </div>
-
+                        <img src="image/gif/animation.gif" class="position-absolute top-0" height="auto" width="30%"
+                            alt="">
 
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="accordion" id="accordionExample">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button bg-white" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        1. What does "Unlock Your Brand’s Potential" mean?
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show "
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body bg-light">
-                                        <p> Answer: Unlocking your brand’s potential means leveraging expert strategies and
-                                            tools to maximize your brand’s visibility, engagement, and revenue online. It
-                                            involves working with top digital experts to implement customized solutions that
-                                            drive awareness, boost engagement, and accelerate your brand’s growth.</p>
-                                    </div>
+                <div class="row my-5 p-2 ">
+                    <div class="col-12  ">
+                        <div class="row px-4 border rounded py-4 bg-white">
+                            <div class="col-lg-4 my-2">
+                                <img src="image/lanuage-logo/wp.png" height="auto"
+                                    class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
+                            </div>
+                            <div class="col-lg-8 my-2 pere_justify">
+                                <h4 class="text-primary ">WordPress</h4>
+                                <p>WordPress is the world’s most popular content management system, powering millions of websites. Whether you’re a startup, small business, or a large enterprise, our WordPress services are designed to help you create a stunning, functional, and user-friendly website that meets your specific needs.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row my-5 p-2">
+                    <div class="col-12  ">
+                        <div class="row px-4 border rounded py-4 bg-white flex-column-reverse flex-lg-row">
+
+                            <div class="col-lg-8 my-2 pere_justify">
+                                <h4 class="text-primary">WooCommerce</h4>
+                                <p>WooCommerce is the leading eCommerce platform for WordPress, enabling businesses of all sizes to sell online with ease. Whether you’re launching a new online store or enhancing an existing one, our WooCommerce services are designed to help you maximize your online sales and provide an exceptional shopping experience for your customers.</p>
+                            </div>
+                            <div class="col-lg-4 my-2">
+                                <img src="image/lanuage-logo/wc.jpg" height="auto"
+                                    class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row my-5 p-2">
+                    <div class="col-12  ">
+                        <div class="row px-4 border rounded py-4 bg-white">
+                            <div class="col-lg-4 my-2">
+                                <img src="image/lanuage-logo/shopy.png" height="auto"
+                                    class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
+                            </div>
+                            <div class="col-lg-8 my-2 pere_justify">
+                                <h4 class="text-primary">Shopify</h4>
+                                <p>Shopify is one of the most popular eCommerce platforms, enabling businesses to create stunning online stores with ease. Whether you’re starting from scratch or looking to optimize an existing store, our Shopify services are designed to help you succeed in the competitive online marketplace.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row my-5 p-2">
+                    <div class="col-12  ">
+                        <div class="row px-4 border rounded py-4 bg-white flex-column-reverse flex-lg-row">
+                            <div class="col-lg-8 my-2 pere_justify">
+                                <h4 class="text-primary">Semrush (SEO)</h4>
+                                <p>SEMrush is a leading digital marketing tool that provides comprehensive SEO solutions to help businesses enhance their online presence. Our SEMrush SEO services are designed to leverage its powerful features, enabling you to optimize your website, improve rankings, and drive organic traffic.</p>
+                            </div>
+                            <div class="col-lg-4 my-2">
+                                <img src="image/lanuage-logo/semrush.jpg" height="auto"
+                                    class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row my-5 p-2">
+                    <div class="col-12  ">
+                        <div class="row px-4 border rounded py-4 bg-white">
+                            <div class="col-lg-4 my-2">
+                                <img src="image/lanuage-logo/meta-logo.jpg" height="auto"
+                                    class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
+                            </div>
+                            <div class="col-lg-8 my-2 pere_justify">
+                                <h4 class="text-primary">Meta</h4>
+                                <p>Unlock your website's potential with our SEMrush SEO services. From in-depth site audits and keyword research to content optimization and backlink building, we leverage SEMrush's powerful tools to boost your online visibility and drive organic traffic. Contact us today for a free consultation!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row my-5 p-2">
+                    <div class="col-12  ">
+                        <div class="row px-4 border rounded py-4 bg-white flex-column-reverse flex-lg-row">
+                            <div class="col-lg-8 my-2 pere_justify">
+                                <h4 class="text-primary">Mailchipm </h4>
+                                <p>Mailchimp is one of the leading email marketing platforms, offering powerful tools to help businesses connect with their audience effectively. Our Mailchimp services are designed to help you create, manage, and optimize your email marketing campaigns, driving engagement and conversions.</p>
+
+                            </div>
+                            <div class="col-lg-4 my-2">
+                                <img src="image/lanuage-logo/mailchimp.jpg" height="auto"
+                                    class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row my-5 p-2">
+                    <div class="col-12  ">
+                        <div class="row px-4 border rounded py-4 bg-white">
+                            <div class="col-lg-4 my-2">
+                                <img src="image/lanuage-logo/canva.png" height="auto"
+                                    class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
+                            </div>
+                            <div class="col-lg-8 my-2 pere_justify">
+                                <h4 class="text-primary">Canva </h4>
+                                <p>Canva is a powerful design tool that enables businesses to create stunning visuals without the need for advanced design skills. Our Canva services are designed to help you harness the full potential of this platform, making it easy to produce high-quality graphics that enhance your brand identity and engage your audience.
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row my-5 p-2">
+                    <div class="col-12  ">
+                        <div class="row px-4 border rounded py-4 bg-white flex-column-reverse flex-lg-row">
+                            <div class="col-lg-8 my-2 pere_justify">
+                                <h4 class="text-primary">PHP </h4>
+                                <p>PHP is a powerful server-side scripting language that is widely used for web development. Our PHP development services are designed to help businesses create dynamic, robust, and scalable web applications tailored to their unique needs.</p>
+
+                            </div>
+                            <div class="col-lg-4 my-2">
+                                <img src="image/lanuage-logo/PHP-logo.png" height="auto"
+                                    class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row my-5 p-2">
+                    <div class="col-12  ">
+                        <div class="row px-4 border rounded py-4 bg-white">
+                            <div class="col-lg-4 my-2">
+                                <img src="image/lanuage-logo/ps.jpg" height="auto"
+                                    class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
+                            </div>
+                            <div class="col-lg-8 my-2 pere_justify">
+                                <h4 class="text-primary">Adobe Photoshop </h4>
+                                <p>Adobe Photoshop is the industry standard for graphic design and photo editing, offering powerful tools for creating stunning visuals. Our Adobe Photoshop services are designed to help businesses elevate their brand imagery and create eye-catching graphics that capture attention.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- button -->
+
+                <div class="col-12 mt-4 text-center text-lg-start">
+                    <a href="tel:918527450318" class="btn btn-primary rounded-pill py-2 fs-5 px-4    text-white">Get Free
+                        Consultation
+                        Today !</a>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <section style="background-color: black;padding:4rem 0rem">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 text-center text-md-center text-lg-start">
+                    <h3 class="fs-1 text-warning">Let’s Work On Your Project</h3>
+                    <p class="text-white mt-3">Get in touch to our Digital Marketing Experts at ARV MEDIA 1998</p>
+                </div>
+                <div class="col-lg-6 text-center">
+                    <a href="" class="btn btn-danger py-2 rounded-pill fs-5 px-4">Contact Us.
+                        Direct Our Team
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container my-5">
+            <div class="row justify-content-center my-5">
+                <div class="col-lg-8 ">
+                    <div class="service_text text-center  ">
+                        <h4 class="fs-1 text- ">FAQ</h4>
+
+                    </div>
+
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button bg-white" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    1. What does "Unlock Your Brand’s Potential" mean?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show "
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body bg-light">
+                                    <p> Answer: Unlocking your brand’s potential means leveraging expert strategies and
+                                        tools to maximize your brand’s visibility, engagement, and revenue online. It
+                                        involves working with top digital experts to implement customized solutions that
+                                        drive awareness, boost engagement, and accelerate your brand’s growth.</p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white" type="button"
-                                        data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
-                                        aria-controls="collapseTwo">
-                                        2. How can partnering with digital experts help increase brand awareness?
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body bg-light">
-                                        <p> Answer: Digital experts use a combination of SEO, content marketing, social
-                                            media strategies, and targeted advertising to enhance your brand’s visibility.
-                                            They analyze market trends, optimize your online presence, and create compelling
-                                            content to ensure your brand reaches a larger and more relevant audience.</p>
-                                    </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed bg-white" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
+                                    aria-controls="collapseTwo">
+                                    2. How can partnering with digital experts help increase brand awareness?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body bg-light">
+                                    <p> Answer: Digital experts use a combination of SEO, content marketing, social
+                                        media strategies, and targeted advertising to enhance your brand’s visibility.
+                                        They analyze market trends, optimize your online presence, and create compelling
+                                        content to ensure your brand reaches a larger and more relevant audience.</p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white" type="button"
-                                        data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        3. What strategies will be used to drive engagement with my target audience?
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body bg-light">
-                                        <p> Strategies to drive engagement include creating high-quality, relevant content,
-                                            utilizing social media platforms effectively, implementing interactive elements
-                                            such as polls or quizzes, and running personalized email campaigns. Digital
-                                            experts will also analyze engagement metrics to refine strategies and maximize
-                                            interaction with your audience.</p>
-                                    </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed bg-white" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
+                                    aria-controls="collapseThree">
+                                    3. What strategies will be used to drive engagement with my target audience?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body bg-light">
+                                    <p> Strategies to drive engagement include creating high-quality, relevant content,
+                                        utilizing social media platforms effectively, implementing interactive elements
+                                        such as polls or quizzes, and running personalized email campaigns. Digital
+                                        experts will also analyze engagement metrics to refine strategies and maximize
+                                        interaction with your audience.</p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white" type="button"
-                                        data-bs-toggle="collapse" data-bs-target="#collapsefour" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        4. How will partnering with digital experts boost sales for my brand?
-                                    </button>
-                                </h2>
-                                <div id="collapsefour" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body bg-light">
-                                        <p> Answer: Digital experts use various tactics to boost sales, including optimizing
-                                            your website for conversions, running targeted ad campaigns, and implementing
-                                            effective sales funnels. They also leverage data-driven insights to understand
-                                            customer behavior and tailor marketing efforts to drive more sales and increase
-                                            revenue.</p>
-                                    </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed bg-white" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapsefour" aria-expanded="false"
+                                    aria-controls="collapseThree">
+                                    4. How will partnering with digital experts boost sales for my brand?
+                                </button>
+                            </h2>
+                            <div id="collapsefour" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body bg-light">
+                                    <p> Answer: Digital experts use various tactics to boost sales, including optimizing
+                                        your website for conversions, running targeted ad campaigns, and implementing
+                                        effective sales funnels. They also leverage data-driven insights to understand
+                                        customer behavior and tailor marketing efforts to drive more sales and increase
+                                        revenue.</p>
                                 </div>
                             </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed bg-white" type="button"
-                                        data-bs-toggle="collapse" data-bs-target="#collapsefive" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        5. What methods will be employed to accelerate online growth?
-                                    </button>
-                                </h2>
-                                <div id="collapsefive" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body bg-light">
-                                        <p> Answer: Accelerating online growth involves a multi-faceted approach including
-                                            improving your website’s user experience, investing in SEO and paid search,
-                                            expanding your social media presence, and leveraging influencer partnerships.
-                                            Digital experts will create and execute a growth strategy tailored to your
-                                            brand’s specific needs and goals.</p>
-                                    </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed bg-white" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#collapsefive" aria-expanded="false"
+                                    aria-controls="collapseThree">
+                                    5. What methods will be employed to accelerate online growth?
+                                </button>
+                            </h2>
+                            <div id="collapsefive" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body bg-light">
+                                    <p> Answer: Accelerating online growth involves a multi-faceted approach including
+                                        improving your website’s user experience, investing in SEO and paid search,
+                                        expanding your social media presence, and leveraging influencer partnerships.
+                                        Digital experts will create and execute a growth strategy tailored to your
+                                        brand’s specific needs and goals.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section> -->
-        <?php
-        // include "review.php";
-        ?>
+        </div>
+    </section>
 
-        <?php include "footer.php"; ?>
+
+    <?php
+    include "review.php";
+    ?>
+
+    <?php include "footer.php"; ?>

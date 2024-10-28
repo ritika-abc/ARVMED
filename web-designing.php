@@ -57,6 +57,9 @@
 </head>
 
 <body>
+
+    <!--  -->
+
     <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
         <div id="spinner"
@@ -66,1108 +69,567 @@
             </div>
         </div>
         <!-- Spinner End -->
-
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl   p-0">
-            <!-- Navbar & Hero Start -->
-            <div class="container-xxl position-relative p-0 ">
-                <?php include "header.php"; ?>
-            </div>
-            <!-- Navbar & Hero End -->
-            <!-- <div class="designing_banner"></div> -->
-            <div class="container-xxl   designing_banner " >
-                <div class="container    ">
-                    <div class="row align-items-center   ">
-                        <div class="col-lg-6  ">
-                            <h4 class="text-white">Professional Web Design Services for Your Business </h4>
-                            <h5 class="text-  fw-bold fs-1" style="
-                           color: #feae16;text-shadow: 2px 2px 0px  rgb(255, 255, 255);">Creative Web Design Company in
-                                Delhi</h5>
-                            <p class="text-white mt-3" style=""><small>At <b class="text-white  px-2 "> ARV MEDIA 1998
-                                    </b> we specialize in creating stunning, high-performance websites that help
-                                    businesses establish a powerful online presence. Discover how our web design
-                                    services can elevate your brand and engage your audience.
+        <div class="container   ">
+            <?php include "header.php"; ?>
 
-                                </small> </p>
-                            <img src="image/gif/aniation1.gif" height="100px" width="100px" alt="">
-                            <a href="" class="btn  btn-dark  rounded-pill py-2 px-5     text-white">Get Started</a>
+            <div style="padding: 6rem 0rem;">
+                <!-- <iframe width="100%" height="100%" style="object-fit: cover;object-position: center;"
+                    src="https://www.youtube.com/embed/usyYMVoJBBs?autoplay=1&mute=1&loop=1&playlist=usyYMVoJBBs&controls=0&modestbranding=1&rel=0"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
+
+                <div class="row  flex-column-reverse flex-lg-row">
+                    <div class="col-lg-6">
+                        <div class=" ">
+                            <h5 class="t fw-bold  mb-1">Website Development agency in Delhi</h5>
+                            <h1 class="text-primary">Custom Website Design Solutions in Delhi Enhance Your Brand Identity
+                            </h1>
+                            <a href="" class="btn btn-danger px-4 py-3 rounded-pill text-white fw-bold shadow-lg">Let’s Start With Us.</a>
                         </div>
-                        <div class="col-lg-6 text-center ">
-                            <img src="image/banner.png" class="shadow-lg    rounded" height="auto" width="80%" alt="">
-                            <!-- <img src="image/gif/web-designing.gif" class="shadow-lg    rounded" height="auto"
-                                width="80%" alt=""> -->
-                        </div>
+                    </div>
+                    <div class="col-lg-6 text-center">
+                        <img src="update-image/web-designing1.jpg" height="auto" width="50%" alt="">
                     </div>
                 </div>
             </div>
         </div>
-
-        <!-- Our Professional SEO Services Include start here -->
-        <!-- Feature Start -->
+        <!-- Navbar & Hero End -->
 
 
 
 
-        <div class="container-fluid overflow-hidden py-5 px-lg-0">
-            <div class="container feature py-5 px-lg-0">
-                <div class="row align-items-center g-5 mx-lg-0 flex-column-reverse flex-lg-row">
-                    <div class="col-lg-6 feature-text wow fadeInUp" data-wow-delay="0.1s">
-                        <!-- <h6 class="text-secondary text-uppercase mb-3">Our Product Features</h6> -->
-                        <h1 class=" ms-4 mb-3 fs-1">Our Process</h1>
-                        <div class="d-flex mb-3 wow fadeInUp" data-wow-delay="0.3s">
-                            <div class="ms-4">
-                                <h5 class="text-primary">Discovery</h5>
-                                <p class="mb-0">We kick off every project with a discovery phase. This involves
-                                    understanding your business goals, target audience, and the message you want to
-                                    convey. We analyze your competitors and current industry trends to lay the
-                                    groundwork for your project.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="d-flex mb-3 wow fadeIn" data-wow-delay="0.5s">
-                            <div class="ms-4">
-                                <h5 class="text-primary">Design</h5>
-                                <p class="mb-0">Once we have a clear understanding of your needs, our designers create
-                                    wireframes and prototypes. We present these to you for feedback, ensuring the design
-                                    aligns perfectly with your vision before moving forward.</p>
-                            </div>
-                        </div>
-                        <div class="d-flex mb-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="ms-4">
-                                <h5 class="text-primary">Development</h5>
-                                <p class="mb-0">After the design is approved, our skilled developers get to work. We
-                                    build your website using the latest technologies, ensuring it is fast, secure, and
-                                    easy to navigate.
-                                </p>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="col-lg-6 pe-lg-0 wow fadeInRight my-3 d-none d-lg-block" data-wow-delay="0.1s"
-                        style="min-height: 400px;">
-                        <section class="feedback-area ptb-100">
-                            <div class="container">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-6  col-md-12">
-                                        <div class="feedback-image   ">
-                                            <div class="box_border"></div>
-                                            <img src="image/icon/ani1.png" height="100px" width="100px"
-                                                class="img1 bg-white position-absolute " alt="image">
-                                            <img src="image/icon/ani2.png" height="100px" width="100px"
-                                                class="img2 position-absolute translate-middle " alt="image">
-                                            <img src="image/icon/ani3.png" height="100px" width="100px"
-                                                class="img3 position-absolute top-100 start-50 translate-middle "
-                                                style="" alt="image">
-                                            <!--<img src="image/cco.jpg" height="100px" width="100px" class="img4 position-absolute "
-                                                style="" alt="image"> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                </div>
-                <div class="row align-items-center g-5 mx-lg-0 my-4 ">
-
-                    <div class="col-lg-6 pe-lg-0 wow fadeInRight my-3" data-wow-delay="0.1s" style="min-height: 400px;">
-                        <section class="feedback-area ptb-100">
-                            <div class="container">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-6  col-md-12">
-                                        <div class="feedback-image   ">
-                                            <div class="box_border"></div>
-                                            <img src="image/icon/ani4.png" height="100px" width="100px"
-                                                class="img1 position-absolute " alt="image">
-                                            <img src="image/icon/ani5.png" height="100px" width="100px"
-                                                class="img2 position-absolute translate-middle bg-white" alt="image">
-                                            <img src="image/icon/ani6.png" height="100px" width="100px"
-                                                class="img3 bg-white position-absolute top-100 start-50 translate-middle "
-                                                style="" alt="image">
-                                            <!--<img src="image/cco.jpg" height="100px" width="100px" class="img4 position-absolute "
-                                                style="" alt="image"> -->
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="col-lg-6 feature-text wow fadeInUp" data-wow-delay="0.1s">
 
 
-                        <div class="d-flex mb-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="ms-4">
-                                <h5 class="text-primary">Testing</h5>
-                                <p class="mb-0">Before launching your website, we conduct thorough testing to identify
-                                    and fix any issues. We check for compatibility across different devices and
-                                    browsers, ensuring a smooth user experience.</p>
-                            </div>
-                        </div>
-                        <div class="d-flex mb-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="ms-4">
-                                <h5 class="text-primary">Launch</h5>
-                                <p class="mb-0">Once testing is complete, we launch your website! But our work doesn’t
-                                    stop there. We monitor its performance, making adjustments as needed to ensure
-                                    optimal functionality.</p>
-                            </div>
-                        </div>
-                        <div class="d-flex mb-3 wow fadeInUp" data-wow-delay="0.7s">
-                            <div class="ms-4">
-                                <h5 class="text-primary">Continuous Support</h5>
-                                <p class="mb-0">Post-launch, we provide ongoing support and maintenance. Whether you
-                                    need updates, security checks, or new features, our team is here to help.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
+        <!-- Our Agency Clients Start -->
+        <div class="container-xxl py-5 wow fadeInUp" style="background-color: #f7f9fb;" data-wow-delay="0.1s">
+            <div class="container py-5 px-lg-5">
+                <!-- <p class="section-title text-secondary justify-content-center"><span></span>Our  Clients<span></span></p> -->
+                <h1 class="text-center mb-3">Our Clients</h1>
+                <p class="section-title text-secondary justify-content-center"><span></span><span></span></p>
+
+                <p class="text-center mt-2 mb-5  ">At ARV MEDIA 1998, we take pride in our diverse portfolio of clients across various industries.
+                </p>
+
+                <table class="table text-center table-bordered table align-middle">
+                    <tr>
+                        <td><img src="./update-image/client/1.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/2.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/3.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/4.jpg" height="auto" width="50%" alt=""> </td>
+                        <td><img src="./update-image/client/5.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/16.jpg" height="auto" width="50%" alt=""></td>
+                    </tr>
+                    <tr>
+                        <td><img src="./update-image/client/15.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/7.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/8.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/9.jpg" height="auto" width="50%" alt=""> </td>
+                        <td><img src="./update-image/client/10.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/17.jpg" height="auto" width="50%" alt=""></td>
+                    </tr>
+                    <tr>
+                        <td><img src="./update-image/client/11.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/12.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/13.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="./update-image/client/14.jpg" height="auto" width="50%" alt=""> </td>
+                        <td> </td>
+                        <td> </td>
+                    </tr>
+                </table>
             </div>
         </div>
+        <!-- Our Agency Clients End -->
 
 
 
 
 
-
-
-
-        <!-- Feature End -->
-        <div class="service_bg   my-5">
+        <!-- Digital Marketing Services start here -->
+        <section class="" style="background-color: #f2f2f2; padding: 5rem 0rem;">
             <div class="container  ">
+                <div class="row position-relative justify-content-center">
+                    <div class="col-lg-7 ">
+                        <div class="text-center ">
+                            <h4 class="t display-6 mb-4">Our Digital Marketing Services In India</h4>
+
+                            <p class="fs-5   mt-4">Our website design services Provide</p>
+
+                        </div>
+                    </div>
+                    <div class="">
+                        <img src="image/gif/aniation1.gif" height="auto" width="15%" style="z-index: 1;"
+                            class="position-absolute top-50  start-0" alt="">
+                    </div>
+
+                </div>
+                <div class="row  justify-content-center">
+                    <div class="col-lg-9">
+                        <div class="row ">
+                            <div class="col-md-6 col-lg-4 text-center  my-5 digital_marketing">
+                                <div class="service_cards  pb-5 bg-white rounded h-100   ">
+                                    <div class="bg-   p-3 mb-4">
+                                        <img src="update-image/web-card1.jpg" height="auto" style="object-fit: cover;" width="80%"
+                                            alt="SEO image">
+                                    </div>
+                                    <div class="pb-4 px-2 ">
+                                        <h5>Startup Website</h5>
+                                        <ul class="text-start">
+                                            <li>User-Centric Design</li>
+                                            <li>Brand Identity Development</li>
+                                            <li> SEO Optimization</li>
+                                            <li> Scalability and Flexibility</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <a style="margin-top: -27px;" href=""
+                                    class="btn btn-secondary  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">know more
+                                </a>
+                            </div>
+                            <div class="col-md-6 col-lg-4 text-center my-5 digital_marketing">
+                                <div class="service_cards pb-5 bg-white rounded h-100  text-center">
+                                    <div class="bg-   p-3 mb-4">
+                                        <img src="update-image/web-card2.jpg" height="auto" style="object-fit: cover;" width="80%"
+                                            alt="SEO image">
+                                    </div>
+                                    <div class="pb-4 px-2 ">
+                                        <h5>Industry Website</h5>
+                                        <ul class="text-start">
+                                            <li>Tailored Solutions for Industry Needs </li>
+                                            <li>Compliance and Security Standards </li>
+                                            <li> Professional Aesthetic and Branding</li>
+                                            <li> Performance and Optimization</li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                                <a style="margin-top: -27px;" href=""
+                                    class="btn btn-secondary  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">know more
+                                </a>
+                            </div>
+                            <div class="col-md-6 col-lg-4 text-center my-5 digital_marketing">
+                                <div class="service_cards pb-5 bg-white rounded h-100  text-center">
+                                    <div class="bg-   p-3 mb-4">
+                                        <img src="update-image/web-card3.jpg" height="auto" style="object-fit: cover;" width="80%"
+                                            alt="SEO image">
+                                    </div>
+                                    <div class="pb-4 px-2 ">
+                                        <h5>E-Commerce Website</h5>
+                                        <ul class="text-start">
+                                            <li> User Experience (UX) Optimization </li>
+                                            <li> Mobile Responsiveness </li>
+                                            <li> Secure Payment Integration</li>
+                                            <li> High-Quality Visuals and Content</li>
+                                        </ul>
+                                    </div>
+
+                                </div>
+                                <a style="margin-top: -27px;" href=""
+                                    class="btn btn-secondary  fw-bold  py-sm-3 px-sm-5 rounded-pill   animated slideInLeft">know more
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+        <section>
+            <div class="container  " style="padding: 5rem 0rem;">
                 <div class="row justify-content-center">
-                    <div class="col-lg-8">
-                        <div class="service_text text-center">
-                            <h4 class="fs-1">The Critical Benefits of Investing in <span class="text-primary">Website
-                                    Design Services</span>
-                            </h4>
-
-
+                    <div class="col-lg-6">
+                        <div class="  text-center">
+                            <h4 class="fs-1">Keyword Research Tools We Use For Our Clients </h4>
                         </div>
                     </div>
                 </div>
-                <!-- cards -->
-                <!-- screen md lg block / none -->
-                <div class="row mt-4 d-none d-lg-flex">
-                    <div class="col-lg-3 col-3">
-                        <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist"
-                            aria-orientation="vertical">
-                            <button class="nav-link active shadow-lg my-3 py-3" id="v-pills-home-tab"
-                                data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab"
-                                aria-controls="v-pills-home" aria-selected="true"> First Impressions Matter</button>
-                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-profile-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-profile" type="button" role="tab"
-                                aria-controls="v-pills-profile" aria-selected="false">Enhances User Experience</button>
-
-                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-messages-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-messages" type="button" role="tab"
-                                aria-controls="v-pills-messages" aria-selected="false">Boosts Search Engine
-                                Rankings</button>
-                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-settings-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-settings" type="button" role="tab"
-                                aria-controls="v-pills-settings" aria-selected="false"> Mobile Accessibility</button>
-                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-onpage-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-onpage" type="button" role="tab"
-                                aria-controls="v-pills-settings" aria-selected="false">Mobile Responsiveness</button>
-                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-cnsole-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-cnsole" type="button" role="tab"
-                                aria-controls="v-pills-settings" aria-selected="false">Competitive Advantage</button>
-                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-account-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-account" type="button" role="tab"
-                                aria-controls="v-pills-settings" aria-selected="false">Increases Conversion
-                                Rates</button>
-                            <button class="nav-link shadow-lg my-3 py-3" id="v-pills-post-tab" data-bs-toggle="pill"
-                                data-bs-target="#v-pills-post" type="button" role="tab" aria-controls="v-pills-settings"
-                                aria-selected="false">Showcases Your Products and Services</button>
-                        </div>
-                    </div>
-                    <div class="col-lg-9 col-9 bg-white py-4">
-                        <div class="tab-content" id="v-pills-tabContent">
-                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel"
-                                aria-labelledby="v-pills-home-tab" tabindex="0">
-                                <!-- start here 1 seo audit -->
-                                <div class="container">
-                                    <div class="row ">
-                                        <div class="col-12">
-                                            <h5 class="fs-2">Creates a Strong First Impression</h5>
-                                            <hr>
-                                            <p class="mt-3">Your website is often the first interaction potential
-                                                customers have with your business, making it crucial to create a lasting
-                                                impression. A professionally designed website showcases your brand’s
-                                                professionalism, quality, and attention to detail. When visitors arrive
-                                                at your site, they quickly form opinions about your business based on
-                                                its design. A well-crafted website can evoke trust and credibility,
-                                                encouraging visitors to explore further rather than bouncing away.</p>
-                                            <p>A strong first impression sets the tone for the entire customer
-                                                experience. If your website looks outdated or is difficult to navigate,
-                                                users may assume that your products or services are of lower quality.
-                                                Conversely, a clean, modern, and user-friendly design can capture
-                                                attention and invite exploration.</p>
-                                            <h5 class="my-2">Benefits:</h5>
-                                            <ul>
-                                                <li class="my-2"><b>Establishes Credibility : </b> A professional
-                                                    appearance builds trust with visitors, making them more likely to
-                                                    engage with your brand.</li>
-                                                <li class="my-2"><b>Encourages Exploration : </b> An inviting design
-                                                    keeps users on your site longer, increasing the chances of
-                                                    conversion.</li>
-                                                <li class="my-2"><b>Differentiates Your Brand :</b> A unique design sets
-                                                    you apart from competitors, highlighting what makes your business
-                                                    special.</li>
-                                                <li class="my-2"><b>Reflects Quality: </b> A polished website indicates
-                                                    that you value quality in all aspects of your business, reassuring
-                                                    customers about your offerings.</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                <div class="row">
+                    <div class="col-lg-12 my-5">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-2 my-3   border-end border-dark border-2 text-center">
+                                <img src="update-image/service/c8.jpg" height="auto" width="50%" alt="">
                             </div>
-                            <!-- content 1 end here -->
-                            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel"
-                                aria-labelledby="v-pills-profile-tab" tabindex="0">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-12">
-                                            <h5 class="fs-2">Enhances User Experience (UX)</h5>
-                                            <hr>
-                                            <p class="mt-3">User experience is vital to the success of any website. A
-                                                professional design focuses on creating a seamless and enjoyable
-                                                experience for visitors. This involves intuitive navigation, quick
-                                                loading times, and clear calls to action, which make it easy for users
-                                                to find the information they need. A positive user experience not only
-                                                keeps visitors on your site longer but also encourages them to return.
-                                            </p>
-                                            <p>Good UX design considers the user’s journey, ensuring that every
-                                                interaction is smooth and satisfying. When users can easily navigate
-                                                your site, they are more likely to trust your brand and engage with your
-                                                content.</p>
-                                            <h5 class="my-2">Benefits:</h5>
-                                            <ul>
-                                                <li class="my-2"><b>Increases Visitor Retention : </b> A user-friendly
-                                                    design encourages visitors to stay longer and explore your site.
-                                                </li>
-                                                <li class="my-2"><b>Reduces Bounce Rates: </b> Intuitive navigation
-                                                    decreases the likelihood of users leaving your site quickly,
-                                                    improving overall traffic.</li>
-                                                <li class="my-2"><b>Enhances Accessibility: </b> Good UX design ensures
-                                                    that your site is accessible to all users, including those with
-                                                    disabilities.</li>
-                                                <li class="my-2"><b>Facilitates Informed Decisions: </b>Clear
-                                                    information architecture helps users find the information they need,
-                                                    aiding in their decision-making process.</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="col-lg-2 my-3 align-self-  border-end border-dark border-2 text-center">
+                                <img src="update-image/service/c9.jpg" height="auto" width="50%" alt="">
                             </div>
-                            <!-- content 2 end here -->
-                            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel"
-                                aria-labelledby="v-pills-messages-tab" tabindex="0">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-12">
-                                            <h5 class="fs-2">Boosts Search Engine Rankings</h5>
-                                            <hr>
-                                            <p class="mt-3">A well-designed website is not just aesthetically pleasing;
-                                                it also plays a critical role in your search engine optimization (SEO)
-                                                strategy. Professional web design incorporates SEO best practices, such
-                                                as clean coding, optimized images, and fast loading speeds. These
-                                                elements improve your website’s visibility in search engine results,
-                                                helping you attract more organic traffic.
-                                            </p>
-                                            <p>Higher search engine rankings mean that more potential customers will
-                                                discover your site. This increased visibility is crucial for driving
-                                                traffic and boosting conversions.</p>
-                                            <h5 class="my-2">Benefits:</h5>
-                                            <ul>
-                                                <li class="my-2"><b>Increases Organic Traffic: </b> Higher rankings lead
-                                                    to more visitors discovering your site through search engines.
-                                                </li>
-                                                <li class="my-2"><b>Enhances Brand Visibility: </b> Improved visibility
-                                                    helps build brand recognition, making it easier for users to find
-                                                    and remember you.</li>
-                                                <li class="my-2"><b>Encourages Quality Leads: </b> SEO-driven traffic
-                                                    often results in more qualified leads, as users searching for
-                                                    specific keywords are more likely to convert.</li>
-                                                <li class="my-2"><b>Reduces Marketing Costs: </b>Organic traffic can
-                                                    lower your reliance on paid advertising, resulting in cost savings
-                                                    over time.</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                            <div class="col-lg-2 my-3 align-self-ce nter border-end border-dark border-2 text-center">
+                                <img src="update-image/service/c3.jpg" height="auto" width="50%" alt="">
                             </div>
-                            <!-- content3 end here -->
-                            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel"
-                                aria-labelledby="v-pills-settings-tab" tabindex="0">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-12">
-                                            <h5 class="fs-2">Improves Mobile Accessibility</h5>
-                                            <hr>
-                                            <p class="mt-3">In today’s digital landscape, mobile accessibility is more
-                                                important than ever. With a significant percentage of web traffic coming
-                                                from mobile devices, having a responsive website design is crucial. A
-                                                well-designed mobile site adapts to different screen sizes and
-                                                resolutions, ensuring that users have a seamless experience whether they
-                                                are using a smartphone, tablet, or desktop.
-                                            </p>
-                                            <p>When your website is optimized for mobile, it not only enhances user
-                                                experience but also improves your overall search engine rankings. Search
-                                                engines, like Google, prioritize mobile-friendly sites in their results,
-                                                making it imperative for businesses to invest in responsive design. A
-                                                mobile-accessible website ensures that users can navigate easily, find
-                                                information quickly, and engage with your content without frustration.
-                                            </p>
-                                            <h5 class="my-2">Benefits:</h5>
-                                            <ul>
-                                                <li class="my-2"><b>Wider Reach</b> A mobile-friendly website allows you
-                                                    to connect with a broader audience, as more users are accessing the
-                                                    internet via mobile devices.
-                                                </li>
-                                                <li class="my-2"><b>Enhanced User Experience: </b> Responsive design
-                                                    improves navigation and usability, making it easier for users to
-                                                    interact with your site on any device.</li>
-                                                <li class="my-2"><b>Lower Bounce Rates: </b> Users are less likely to
-                                                    leave your site if it loads quickly and displays properly on their
-                                                    mobile devices, increasing overall retention.</li>
-                                                <li class="my-2"><b>Increased Conversion Rates: </b> An optimized mobile
-                                                    experience leads to higher conversion rates, as users can easily
-                                                    complete purchases or sign up for services on their devices.</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
+                            <div class="col-lg-2 my-3 align-self-  border-end border-dark border-2 text-center">
+                                <img src="update-image/service/c13.jpg" height="auto" width="50%" alt="">
                             </div>
-                            <div class="tab-pane fade" id="v-pills-onpage" role="tabpanel"
-                                aria-labelledby="v-pills-onpage-tab" tabindex="0">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-12">
-                                            <h5 class="fs-2">Mobile Responsiveness</h5>
-                                            <hr>
-                                            <p class="mt-3">Mobile responsiveness is a crucial aspect of modern web
-                                                design, ensuring that your website delivers an optimal viewing
-                                                experience across all devices—desktops, tablets, and smartphones. With
-                                                the rapid increase in mobile internet usage, having a responsive design
-                                                is no longer optional; it’s essential for reaching and engaging your
-                                                audience effectively.
-                                            </p>
-                                            <p>A responsive website automatically adjusts its layout, images, and
-                                                functionalities based on the screen size and orientation of the device
-                                                being used. This means users can easily read text, view images, and
-                                                navigate your site without needing to zoom in or scroll excessively. By
-                                                prioritizing mobile responsiveness, you enhance user satisfaction,
-                                                reduce bounce rates, and ultimately drive conversions.</p>
-                                            <h5 class="my-2">Benefits:</h5>
-                                            <ul>
-                                                <li class="my-2"><b>Improved User Experience: </b> A responsive design
-                                                    provides a seamless browsing experience, making it easier for users
-                                                    to find information and interact with your site, regardless of the
-                                                    device.
-                                                </li>
-                                                <li class="my-2"><b>Wider Audience Reach: </b> By accommodating various
-                                                    screen sizes, you can effectively engage a larger audience,
-                                                    including those who primarily access the internet via mobile
-                                                    devices.</li>
-                                                <li class="my-2"><b>Lower Bounce Rates : </b> When visitors have a
-                                                    positive experience on mobile, they are less likely to leave your
-                                                    site immediately, which helps keep users engaged and encourages them
-                                                    to explore further.</li>
-                                                <li class="my-2"><b>Increased Conversion Rates:</b> A streamlined mobile
-                                                    experience simplifies the purchasing process, leading to higher
-                                                    conversion rates as users can easily complete transactions on their
-                                                    devices.</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
+                            <div class="col-lg-2 my-3 align-self-cent er text-center">
+                                <img src="update-image/service/c14.jpg" height="auto" width="50%" alt="">
                             </div>
-                            <div class="tab-pane fade" id="v-pills-cnsole" role="tabpanel"
-                                aria-labelledby="v-pills-cnsole-tab" tabindex="0">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-12">
-                                            <h5 class="fs-2">Competitive Advantage</h5>
-                                            <hr>
-                                            <p class="mt-3">In today’s highly competitive digital landscape, having a
-                                                well-designed website can significantly set your business apart from
-                                                others. A professional, user-friendly website not only enhances your
-                                                online presence but also establishes your brand as a credible authority
-                                                in your industry. When potential customers visit your site, they make
-                                                quick judgments based on design, usability, and content. A superior
-                                                website can be the deciding factor that leads a customer to choose your
-                                                business over competitors.
-                                            </p>
-                                            <p>Investing in quality web design gives you a distinct edge, as it
-                                                demonstrates your commitment to excellence. A unique and engaging
-                                                website captures the attention of visitors and encourages them to
-                                                explore your offerings, which is crucial for converting leads into loyal
-                                                customers. By prioritizing design and functionality, you create a
-                                                memorable user experience that fosters brand loyalty and advocacy.</p>
-                                            <h5 class="my-2">Benefits:</h5>
-                                            <ul>
-                                                <li class="my-2"><b>Differentiation from Competitors: </b> A unique and
-                                                    attractive design helps your brand stand out, making it easier for
-                                                    customers to recognize and remember you.
-                                                </li>
-                                                <li class="my-2"><b>Enhanced Credibility: </b>A professional website
-                                                    instills trust, making users more likely to engage with your brand
-                                                    and consider your products or services.</li>
-                                                <li class="my-2"><b>Improved Customer Engagement: </b> A well-structured
-                                                    site encourages users to interact with your content, leading to
-                                                    longer visit durations and increased chances of conversion.</li>
-                                                <li class="my-2"><b>Stronger Brand Loyalty: </b>A positive user
-                                                    experience fosters loyalty, encouraging customers to return and
-                                                    recommend your brand to others.</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                            <div class="tab-pane fade" id="v-pills-account" role="tabpanel"
-                                aria-labelledby="v-pills-account-tab" tabindex="0">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-12">
-                                            <h5 class="fs-2">Increases Conversion Rates</h5>
-                                            <hr>
-                                            <p class="mt-3">One of the primary goals of any website is to convert
-                                                visitors into customers. A well-designed website plays a crucial role in
-                                                achieving this goal by optimizing the user journey and guiding visitors
-                                                toward desired actions, such as making a purchase, signing up for a
-                                                newsletter, or requesting more information. Effective web design
-                                                incorporates strategic elements that enhance user engagement and
-                                                simplify the conversion process.
-                                            </p>
-                                            <p>By focusing on user experience, clarity, and persuasive design, a
-                                                professional website can significantly increase conversion rates.
-                                                Features such as clear calls-to-action (CTAs), intuitive navigation, and
-                                                engaging visuals make it easier for users to understand your offerings
-                                                and take the next step. When visitors feel confident and supported
-                                                throughout their browsing experience, they are more likely to convert.
-                                            </p>
-                                            <h5 class="my-2">Benefits:</h5>
-                                            <ul>
-                                                <li class="my-2"><b>Clear Calls-to-Action: </b> Strategic placement of
-                                                    CTAs encourages users to take specific actions, leading to higher
-                                                    conversion rates.
-                                                </li>
-                                                <li class="my-2"><b>Simplified Navigation: </b>A user-friendly layout
-                                                    allows visitors to find what they need quickly, reducing frustration
-                                                    and increasing the likelihood of completing a purchase.</li>
-                                                <li class="my-2"><b>Engaging Content: </b> High-quality visuals and
-                                                    compelling copy keep users interested, prompting them to interact
-                                                    further with your offerings.</li>
-                                                <li class="my-2"><b>Enhanced Trust and Credibility: </b>Professional
-                                                    design instills confidence in users, making them more willing to
-                                                    share their information and complete transactions.</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="v-pills-post" role="tabpanel"
-                                aria-labelledby="v-pills-post-tab" tabindex="0">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-12">
-                                            <h5 class="fs-2">Showcases Your Products and Services</h5>
-                                            <hr>
-                                            <p class="mt-3">A well-designed website serves as a powerful platform for
-                                                showcasing your products and services. It allows you to present your
-                                                offerings in an appealing and informative manner, making it easier for
-                                                potential customers to understand what you provide and how it can
-                                                benefit them. Effective product presentation includes high-quality
-                                                images, engaging descriptions, and clear specifications, all of which
-                                                contribute to a positive user experience.
-                                            </p>
-                                            <p>By highlighting your products and services thoughtfully, you not only
-                                                attract visitors but also guide them toward making informed purchasing
-                                                decisions. A professional website design emphasizes key features,
-                                                benefits, and unique selling propositions, ensuring that your offerings
-                                                stand out in a crowded marketplace.</p>
-                                            <h5 class="my-2">Benefits:</h5>
-                                            <ul>
-                                                <li class="my-2"><b>Visual Appeal: </b> High-quality images and videos
-                                                    attract attention and create a more immersive shopping experience,
-                                                    helping customers visualize the products.
-                                                </li>
-                                                <li class="my-2"><b>Detailed Information: </b> Well-organized product
-                                                    descriptions and specifications provide customers with all the
-                                                    necessary information to make informed decisions.</li>
-                                                <li class="my-2"><b>Easy Navigation: </b> A structured layout allows
-                                                    users to find products and services quickly, enhancing their overall
-                                                    experience on your site.</li>
-                                                <li class="my-2"><b>Highlighting Unique Selling Points: </b> Effective
-                                                    design showcases what sets your offerings apart, making it easier
-                                                    for customers to see their value.</li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-                <!-- for small view -->
-                <div class="row d-block d-lg-none">
-                    <div class="col-12">
-                        <div class="accordion" id="accordionExample">
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        First Impressions Matter
-                                    </button>
-                                </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <h5 class="fs-2">Creates a Strong First Impression</h5>
-                                        <p>Your website is often the first interaction potential customers have with
-                                            your business, making it crucial to create a lasting impression. A
-                                            professionally designed website showcases your brand’s professionalism,
-                                            quality, and attention to detail. When visitors arrive at your site, they
-                                            quickly form opinions about your business based on its design. A
-                                            well-crafted website can evoke trust and credibility, encouraging visitors
-                                            to explore further rather than bouncing away.</p>
-                                        <p>A strong first impression sets the tone for the entire customer experience.
-                                            If your website looks outdated or is difficult to navigate, users may assume
-                                            that your products or services are of lower quality. Conversely, a clean,
-                                            modern, and user-friendly design can capture attention and invite
-                                            exploration.</p>
-
-                                        <h5 class="my-2">Benefits:</h5>
-                                        <ul>
-                                            <li><b>Establishes Credibility :</b> A professional appearance builds trust
-                                                with visitors, making them more likely to engage with your brand.</li>
-                                            <li><b>Encourages Exploration :</b> An inviting design keeps users on your
-                                                site longer, increasing the chances of conversion.</li>
-                                            <li><b>Differentiates Your Brand :</b> A unique design sets you apart from
-                                                competitors, highlighting what makes your business special.</li>
-                                            <li><b>Reflects Quality : </b>A polished website indicates that you value
-                                                quality in all aspects of your business, reassuring customers about your
-                                                offerings.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Enhances User Experience
-                                    </button>
-                                </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <h5 class="fs-2">Enhances User Experience (UX)</h5>
-                                        <p>User experience is vital to the success of any website. A professional design
-                                            focuses on creating a seamless and enjoyable experience for visitors. This
-                                            involves intuitive navigation, quick loading times, and clear calls to
-                                            action, which make it easy for users to find the information they need. A
-                                            positive user experience not only keeps visitors on your site longer but
-                                            also encourages them to return.</p>
-                                        <p>Good UX design considers the user’s journey, ensuring that every interaction
-                                            is smooth and satisfying. When users can easily navigate your site, they are
-                                            more likely to trust your brand and engage with your content.</p>
-
-                                        <h5 class="my-2">Benefits</h5>
-                                        <ul>
-                                            <li><b>Increases Visitor Retention</b> A user-friendly design encourages
-                                                visitors to stay longer and explore your site.
-                                            </li>
-                                            <li><b>Reduces Bounce Rates :</b> Intuitive navigation decreases the
-                                                likelihood of users leaving your site quickly, improving overall
-                                                traffic.</li>
-                                            <li><b>Enhances Accessibility: </b> Good UX design ensures that your site is
-                                                accessible to all users, including those with disabilities.</li>
-                                            <li><b>Facilitates Informed Decisions :</b>Clear information architecture
-                                                helps users find the information they need, aiding in their
-                                                decision-making process.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapseThree" aria-expanded="false"
-                                        aria-controls="collapseThree">
-                                        Boosts Search Engine Rankings
-                                    </button>
-                                </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <h5 class="fs-2">Boosts Search Engine Rankings</h5>
-
-
-                                        <p>A well-designed website is not just aesthetically pleasing; it also plays a
-                                            critical role in your search engine optimization (SEO) strategy.
-                                            Professional web design incorporates SEO best practices, such as clean
-                                            coding, optimized images, and fast loading speeds. These elements improve
-                                            your website’s visibility in search engine results, helping you attract more
-                                            organic traffic.</p>
-                                        <p>Higher search engine rankings mean that more potential customers will
-                                            discover your site. This increased visibility is crucial for driving traffic
-                                            and boosting conversions.</p>
-                                        <h5 class="my-2">Benefits </h5>
-                                        <ul>
-                                            <li><b>Increases Organic Traffic: </b> Higher rankings lead to more visitors
-                                                discovering your site through search engines.
-                                            </li>
-                                            <li><b>Enhances Brand Visibility : </b> Improved visibility helps build
-                                                brand recognition, making it easier for users to find and remember you.
-                                            </li>
-                                            <li><b>Encourages Quality Leads: </b> SEO-driven traffic often results in
-                                                more qualified leads, as users searching for specific keywords are more
-                                                likely to convert.</li>
-                                            <li><b>Reduces Marketing Costs: </b> Organic traffic can lower your reliance
-                                                on paid advertising, resulting in cost savings over time.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapseThree">
-                                        Mobile Accessibility
-                                    </button>
-                                </h2>
-                                <div id="collapse4" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <h5 class="fs-2">Improves Mobile Accessibility</h5>
-                                        <p>In today’s digital landscape, mobile accessibility is more important than
-                                            ever. With a significant percentage of web traffic coming from mobile
-                                            devices, having a responsive website design is crucial. A well-designed
-                                            mobile site adapts to different screen sizes and resolutions, ensuring that
-                                            users have a seamless experience whether they are using a smartphone,
-                                            tablet, or desktop.</p>
-                                        <p>When your website is optimized for mobile, it not only enhances user
-                                            experience but also improves your overall search engine rankings. Search
-                                            engines, like Google, prioritize mobile-friendly sites in their results,
-                                            making it imperative for businesses to invest in responsive design. A
-                                            mobile-accessible website ensures that users can navigate easily, find
-                                            information quickly, and engage with your content without frustration.</p>
-
-                                        <h5 class="my-2">Benefits </h5>
-                                        <ul>
-                                            <li><b>Wider Reach: </b> A mobile-friendly website allows you to connect
-                                                with a broader audience, as more users are accessing the internet via
-                                                mobile devices.
-                                            </li>
-                                            <li><b>Enhanced User Experience: </b> Responsive design improves navigation
-                                                and usability, making it easier for users to interact with your site on
-                                                any device.</li>
-                                            <li><b>Lower Bounce Rates : </b> Users are less likely to leave your site if
-                                                it loads quickly and displays properly on their mobile devices,
-                                                increasing overall retention.</li>
-                                            <li><b>Increased Conversion Rates:</b> An optimized mobile experience leads
-                                                to higher conversion rates, as users can easily complete purchases or
-                                                sign up for services on their devices.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapseThree">
-                                        Mobile Responsiveness
-                                    </button>
-                                </h2>
-                                <div id="collapse5" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <h5 class="fs-2">Mobile Responsiveness</h5>
-                                        <p>Mobile responsiveness is a crucial aspect of modern web design, ensuring that
-                                            your website delivers an optimal viewing experience across all
-                                            devices—desktops, tablets, and smartphones. With the rapid increase in
-                                            mobile internet usage, having a responsive design is no longer optional;
-                                            it’s essential for reaching and engaging your audience effectively.</p>
-
-                                        <p>A responsive website automatically adjusts its layout, images, and
-                                            functionalities based on the screen size and orientation of the device being
-                                            used. This means users can easily read text, view images, and navigate your
-                                            site without needing to zoom in or scroll excessively. By prioritizing
-                                            mobile responsiveness, you enhance user satisfaction, reduce bounce rates,
-                                            and ultimately drive conversions.</p>
-
-
-
-                                        <h5 class="my-3">Benefits</h5>
-                                        <ul>
-                                            <li><b>Improved User Experience : </b>A responsive design provides a
-                                                seamless browsing experience, making it easier for users to find
-                                                information and interact with your site, regardless of the device.
-                                            </li>
-                                            <li><b>Wider Audience Reach: </b>By accommodating various screen sizes, you
-                                                can effectively engage a larger audience, including those who primarily
-                                                access the internet via mobile devices.</li>
-
-                                            <li><b>Lower Bounce Rates : </b> When visitors have a positive experience on
-                                                mobile, they are less likely to leave your site immediately, which helps
-                                                keep users engaged and encourages them to explore further.
-                                            </li>
-                                            <li><b>Increased Conversion Rates:</b> A streamlined mobile experience
-                                                simplifies the purchasing process, leading to higher conversion rates as
-                                                users can easily complete transactions on their devices.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapseThree">
-                                        Competitive Advantage
-                                    </button>
-                                </h2>
-                                <div id="collapse6" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <h5 class="fs-2">Competitive Advantage</h5>
-                                        <p>In today’s highly competitive digital landscape, having a well-designed
-                                            website can significantly set your business apart from others. A
-                                            professional, user-friendly website not only enhances your online presence
-                                            but also establishes your brand as a credible authority in your industry.
-                                            When potential customers visit your site, they make quick judgments based on
-                                            design, usability, and content. A superior website can be the deciding
-                                            factor that leads a customer to choose your business over competitors.</p>
-                                        <p>Investing in quality web design gives you a distinct edge, as it demonstrates
-                                            your commitment to excellence. A unique and engaging website captures the
-                                            attention of visitors and encourages them to explore your offerings, which
-                                            is crucial for converting leads into loyal customers. By prioritizing design
-                                            and functionality, you create a memorable user experience that fosters brand
-                                            loyalty and advocacy.</p>
-                                        <ul>
-                                            <li><b>Differentiation from Competitors: </b> A unique and attractive design
-                                                helps your brand stand out, making it easier for customers to recognize
-                                                and remember you.
-                                            </li>
-                                            <li><b>Enhanced Credibility: </b> A professional website instills trust,
-                                                making users more likely to engage with your brand and consider your
-                                                products or services.</li>
-
-                                            <li><b>Improved Customer Engagement: </b>A well-structured site encourages
-                                                users to interact with your content, leading to longer visit durations
-                                                and increased chances of conversion.
-                                            </li>
-                                            <li><b>Stronger Brand Loyalty: </b>A positive user experience fosters
-                                                loyalty, encouraging customers to return and recommend your brand to
-                                                others.</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapseThree">
-                                        Increases Conversion Rates
-                                    </button>
-                                </h2>
-                                <div id="collapse7" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <h5 class="fs-2">Increases Conversion Rates</h5>
-
-
-                                        <p>One of the primary goals of any website is to convert visitors into
-                                            customers. A well-designed website plays a crucial role in achieving this
-                                            goal by optimizing the user journey and guiding visitors toward desired
-                                            actions, such as making a purchase, signing up for a newsletter, or
-                                            requesting more information. Effective web design incorporates strategic
-                                            elements that enhance user engagement and simplify the conversion process.
-                                        </p>
-                                        <p>By focusing on user experience, clarity, and persuasive design, a
-                                            professional website can significantly increase conversion rates. Features
-                                            such as clear calls-to-action (CTAs), intuitive navigation, and engaging
-                                            visuals make it easier for users to understand your offerings and take the
-                                            next step. When visitors feel confident and supported throughout their
-                                            browsing experience, they are more likely to convert.</p>
-
-                                        <ul>
-                                            <li><b>Clear Calls-to-Action:</b> Strategic placement of CTAs encourages
-                                                users to take specific actions, leading to higher conversion rates.
-                                            </li>
-                                            <li><b>Simplified Navigation: </b>A user-friendly layout allows visitors to
-                                                find what they need quickly, reducing frustration and increasing the
-                                                likelihood of completing a purchase.</li>
-
-                                            <li><b>Engaging Content: </b> High-quality visuals and compelling copy keep
-                                                users interested, prompting them to interact further with your
-                                                offerings.
-                                            </li>
-                                            <li><b>Enhanced Trust and Credibility:</b>Professional design instills
-                                                confidence in users, making them more willing to share their information
-                                                and complete transactions.
-                                            </li>
-                                        </ul>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <h2 class="accordion-header">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapseThree">
-                                        Showcases Your Products and Services
-                                    </button>
-                                </h2>
-                                <div id="collapse8" class="accordion-collapse collapse"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <h5 class="fs-2">Showcases Your Products and Services</h5>
-                                        <p>A well-designed website serves as a powerful platform for showcasing your products and services. It allows you to present your offerings in an appealing and informative manner, making it easier for potential customers to understand what you provide and how it can benefit them. Effective product presentation includes high-quality images, engaging descriptions, and clear specifications, all of which contribute to a positive user experience.</p>
-                                        <p>By highlighting your products and services thoughtfully, you not only attract visitors but also guide them toward making informed purchasing decisions. A professional website design emphasizes key features, benefits, and unique selling propositions, ensuring that your offerings stand out in a crowded marketplace.</p>
-                                        <ul>
-                                            <li><b>Visual Appeal:</b> High-quality images and videos attract attention and create a more immersive shopping experience, helping customers visualize the products.
-                                            </li>
-                                            <li><b>Detailed Information:</b>Well-organized product descriptions and specifications provide customers with all the necessary information to make informed decisions.</li>
-
-                                            <li><b>Easy Navigation:</b>A structured layout allows users to find products and services quickly, enhancing their overall experience on your site.
-                                            </li>
-                                            <li><b>Highlighting Unique Selling Points: </b> Effective design showcases what sets your offerings apart, making it easier for customers to see their value.</li>
-                                        </ul>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
+
         <div class="container margin">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="service_text text-center">
-                        <h4 class="fs-1">Why We Are the Leading <span class="text-primary">Website Design Company</span>
-                            in Delhi
-                        </h4>
+                        <h4 class="fs-1">Benefits of Website For Your Business</h4>
+                        <img src="image/gif/aniation1.gif" height="100px" width="100px" alt="">
                     </div>
                 </div>
             </div>
-            <!-- cards -->
-            <div class="row bg-dark rounded py-5 mt-5">
-                <div class="col-12">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <ul class="text-white">
-                                <li class="mt-2">Innovative Web Design</li>
-                                <li class="mt-2">Expert Designers</li>
-                                <li class="mt-2">Efficient Layout & Calls-to-Action</li>
-                                <li class="mt-2">Mobile-Friendly</li>
-                                <li class="mt-2">Fast Loading</li>
-                                <li class="mt-2">User-Friendly Navigation</li>
-                                <li class="mt-2">Consistent Design </li>
-                                <li class="mt-2">Easy-to-Read Content </li>
-                                <li class="mt-2">SEO-Optimized</li>
-                                <li class="mt-2">Responsive Across All Devices</li>
-                                <li class="mt-2">High Performance and Speed</li>
-                                <li class="mt-2">Dependable
-                                </li>
-                            </ul>
+            <div class="row justify-content-center">
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/5.png" height="50px" width="50px" alt="">
                         </div>
-                        <div class="col-6">
-                            <img src="image/gif/animation.gif" height="auto" width="30%" alt="">
+                        <h5 class="mt-4">Increased Visibility</h5>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/19.png" height="50px" width="50px" alt="">
+                        </div>
+                        <h5 class="mt-4"> Credibility and Trust</h5>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/20.png" height="50px" width="50px" alt="">
+                        </div>
+                        <h5 class="mt-4">Cost-Effective Marketing</h5>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/16.png" height="50px" width="50px" alt="">
+                        </div>
+                        <h5 class="mt-4">Showcase Products and Services
+                        </h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/21.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Customer Engagement</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/22.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Lead Generation</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/23.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Competitive Advantage</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/24.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Build Brand Awareness</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/25.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Showcase Testimonials and Reviews
+                        </h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/26.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Facilitates Communication</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="update-image/icon/27.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Sale Generation</h5>
+                    </div>
+                </div>
+                <div class="col-lg-3 text-center my-4">
+                    <div class="benefit_cards text-center shadow-lg p-3 rounded h-100">
+                        <div class="icon_box_center m-auto">
+                            <img src="image/icon/5.png" height="70px" width="70px" alt="">
+                        </div>
+                        <h5 class="mt-4">Great for Testing New Products or Services
+                        </h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <section class=" w-100" style="background-color: black; letter-spacing: 1px;">
+            <div class="bg_clip   "></div>
+            <div class="container" style="padding: 5rem 0rem;">
+                <div class="row   ">
+                    <div class="col-lg-6  text-capitalize ">
+                        <h4 class="fs-3 text-primary">Let’s Work On Your Project</h4>
+                        <h2 class="h6 text-white mt-3" style="font-family: sans-serif !important;">Get in touch to our Digital Marketing Experts at ARV MEDIA 1998
+                        </h2>
+
+                    </div>
+                    <div class="col-lg-6">
+                        <a href="" class=" btn btn-danger p-3 mt-3 px-5 fw-bold  w-50 m-auto">Contact Us.
+                            Direct Our Team
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Our Agency Clients Start -->
+        <div class="container-xxl py-5 wow fadeInUp" style="background-color: #f7f9fb;" data-wow-delay="0.1s">
+            <div class="container py-5 px-lg-5">
+                <!-- <p class="section-title text-secondary justify-content-center"><span></span>Our  Clients<span></span></p> -->
+                <h1 class="text-center fs-4 mb-3">Our Expert Team Use These Tools For Grow Your Business</h1>
+
+                <table class="table text-center table-bordered table align-middle">
+                    <tr>
+                        <td><img src="update-image/service/c1.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="update-image/service/c2.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="update-image/service/c3.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="update-image/service/c4.jpg" height="auto" width="50%" alt=""> </td>
+                        <td><img src="update-image/service/c5.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="update-image/service/c6.jpg" height="auto" width="50%" alt=""></td>
+                    </tr>
+                    <tr>
+                        <td><img src="update-image/service/c7.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="update-image/service/c8.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="update-image/service/c9.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="update-image/service/c10.jpg" height="auto" width="50%" alt=""> </td>
+                        <td><img src="update-image/service/c11.jpg" height="auto" width="50%" alt=""></td>
+                        <td><img src="update-image/service/c12.jpg" height="auto" width="50%" alt=""></td>
+                    </tr>
+
+                </table>
+            </div>
+        </div>
+        <!-- Our Agency Clients End -->
+
+
+
+
+        <!-- <section>
+            <div class="container my-5">
+                <div class="row justify-content-center my-5">
+                    <div class="col-lg-8 ">
+                        <div class="service_text text-center  ">
+                            <h4 class="fs-1 text- ">FAQ</h4>
+
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="accordion" id="accordionExample">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button bg-white" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        1. What does "Unlock Your Brand’s Potential" mean?
+                                    </button>
+                                </h2>
+                                <div id="collapseOne" class="accordion-collapse collapse show "
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body bg-light">
+                                        <p> Answer: Unlocking your brand’s potential means leveraging expert strategies and
+                                            tools to maximize your brand’s visibility, engagement, and revenue online. It
+                                            involves working with top digital experts to implement customized solutions that
+                                            drive awareness, boost engagement, and accelerate your brand’s growth.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed bg-white" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
+                                        aria-controls="collapseTwo">
+                                        2. How can partnering with digital experts help increase brand awareness?
+                                    </button>
+                                </h2>
+                                <div id="collapseTwo" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body bg-light">
+                                        <p> Answer: Digital experts use a combination of SEO, content marketing, social
+                                            media strategies, and targeted advertising to enhance your brand’s visibility.
+                                            They analyze market trends, optimize your online presence, and create compelling
+                                            content to ensure your brand reaches a larger and more relevant audience.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed bg-white" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        3. What strategies will be used to drive engagement with my target audience?
+                                    </button>
+                                </h2>
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body bg-light">
+                                        <p> Strategies to drive engagement include creating high-quality, relevant content,
+                                            utilizing social media platforms effectively, implementing interactive elements
+                                            such as polls or quizzes, and running personalized email campaigns. Digital
+                                            experts will also analyze engagement metrics to refine strategies and maximize
+                                            interaction with your audience.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed bg-white" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapsefour" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        4. How will partnering with digital experts boost sales for my brand?
+                                    </button>
+                                </h2>
+                                <div id="collapsefour" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body bg-light">
+                                        <p> Answer: Digital experts use various tactics to boost sales, including optimizing
+                                            your website for conversions, running targeted ad campaigns, and implementing
+                                            effective sales funnels. They also leverage data-driven insights to understand
+                                            customer behavior and tailor marketing efforts to drive more sales and increase
+                                            revenue.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed bg-white" type="button"
+                                        data-bs-toggle="collapse" data-bs-target="#collapsefive" aria-expanded="false"
+                                        aria-controls="collapseThree">
+                                        5. What methods will be employed to accelerate online growth?
+                                    </button>
+                                </h2>
+                                <div id="collapsefive" class="accordion-collapse collapse"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body bg-light">
+                                        <p> Answer: Accelerating online growth involves a multi-faceted approach including
+                                            improving your website’s user experience, investing in SEO and paid search,
+                                            expanding your social media presence, and leveraging influencer partnerships.
+                                            Digital experts will create and execute a growth strategy tailored to your
+                                            brand’s specific needs and goals.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <?php
+        // include "review.php";
+        ?>
+        <!-- Facts Start -->
+        <div class="container-xxl  fact py-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container py-5 px-lg-5">
+                <h4 class="mb-5 fs-2 text-center">ARV MEDIA 1998 IN NUMBERS IN <span class="text-primary">JUST 4 MONTHS</span></h4>
+                <div class="row justify-content-center g-4">
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
+                        <div class="shadow-lg h-100 p-3 rounded ">
+                            <img src="update-image/icon1.png" alt="">
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">20</h1>
+                                <h1>+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold ">Website Design </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
+                        <div class="shadow-lg h-100 p-3 rounded">
+                            <img src="update-image/icon2.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">500</h1>
+                                <h1>+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Lead Generated
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
+                        <div class="shadow-lg p-3 h-100 rounded">
+                            <img src="update-image/icon3.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">1</h1>
+                                <h1>+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Subscribers on YouTube
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.s">
+                        <div class="shadow-lg p-3 h-100 rounded">
+                            <img src="update-image/icon4.jpg" height="60px" width="60px" alt="">
+
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">25</h1>
+                                <h1>K+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Client Across India </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.s">
+                        <div class="shadow-lg p-3 h-100 rounded">
+                            <img src="update-image/icon5.jpg" alt="">
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">700</h1>
+                                <h1>K+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Keyword Rank On Google
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.s">
+                        <div class="shadow-lg p-3 h-100 rounded">
+                            <img src="update-image/icon6.jpg" height="60px" width="60px" alt="">
+
+                            <div class="d-flex justify-content-center">
+                                <h1 class=" mb-2" data-toggle="counter-up">2</h1>
+                                <h1>Lakh+</h1>
+                            </div>
+                            <p class=" mb-0  fs-4 text-dark fw-bold">Make Profit for our Clients </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-    </div>
-    <div class="container margin">
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <div class="service_text text-center  ">
-                    <h4 class="fs-1">why Choose <div class="text-primary">
-                            ARV MEDIA 1998
-                        </div> For Best Web Design Services in india</h4>
-                </div>
-            </div>
-        </div>
-        <div class="row my-5 p-2 ">
-            <div class="col-12  ">
-                <div class="row px-4 border rounded py-4 ">
-                    <div class="col-lg-4 my-2">
-                        <img src="image/responsive-design.jpg" height="auto"
-                            class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
-                    </div>
-                    <div class="col-lg-8 my-2 pere_justify">
-                        <h4 class="text-primary">Responsive Web Design
-                        </h4>
-                        <p>Ensure your website looks stunning on all major devices with our responsive web design
-                            services. We create designs that adapt seamlessly to laptop screens, smartphones, and
-                            tablets. Recognizing that most users now browse the internet on their phones, we employ a
-                            mobile-first approach to deliver visually appealing, responsive website designs in Delhi.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row my-5 p-2">
-            <div class="col-12  ">
-                <div class="row px-4 border rounded py-4  flex-column-reverse flex-lg-row">
-
-                    <div class="col-lg-8 my-2 pere_justify">
-                        <h4 class="text-primary">Website Redesign</h4>
-                        <p>Our website redesign services transform your existing site to be more
-                            attractive and current. While not all designers master the art of web
-                            design, our team at Thanksweb consists of experienced and creative
-                            professionals dedicated to ensuring your website serves as the best
-                            possible representation of your company online.</p>
-                    </div>
-                    <div class="col-lg-4 my-2">
-                        <img src="image/website-redesign.jpg" height="auto"
-                            class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row my-5 p-2">
-            <div class="col-12  ">
-                <div class="row px-4 border rounded py-4">
-                    <div class="col-lg-4 my-2">
-                        <img src="image/cco.jpg" height="auto" class="border border-dark border-3 p-2 rounded shadow-lg"
-                            width="100%" alt="">
-                    </div>
-                    <div class="col-lg-8 my-2 pere_justify">
-                        <h4 class="text-primary">eCommerce Website Design
-                        </h4>
-                        <p>Designing an e-commerce website involves more than just aesthetics; it must captivate
-                            visitors,
-                            encourage purchases, and feature effective calls to action. Our e-commerce website
-                            development and design services are tailored to create exactly the kind of online store you
-                            need
-                            to drive your business forward.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row my-5 p-2">
-            <div class="col-12  ">
-                <div class="row px-4 border rounded py-4 flex-column-reverse flex-lg-row">
-                    <div class="col-lg-8 my-2 pere_justify">
-                        <h4 class="text-primary">Customized Web Design</h4>
-                        <p>Partner with our custom website design company to bring your vision to life. Share your
-                            requirements with us, and we'll craft a creative website that authentically reflects your
-                            business's identity and values.
-                        </p>
-                    </div>
-                    <div class="col-lg-4 my-2">
-                        <img src="image/custom.jpg" height="auto"
-                            class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
-                    </div>
-                </div>
-            </div>
-
-        </div>
-        <div class="row my-5 p-2">
-            <div class="col-12  ">
-                <div class="row px-4 border rounded py-4">
-                    <div class="col-lg-4 my-2">
-                        <img src="image/landing.jpg" height="auto"
-                            class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
-                    </div>
-                    <div class="col-lg-8 my-2 pere_justify">
-                        <h4 class="text-primary">Landing Page Design
-                        </h4>
-                        <p>Landing pages are crucial for your website as they influence whether visitors stay and make a
-                            purchase or
-                            leave. Our landing page design services focus on creating compelling and attractive pages
-                            that engage
-                            customers effectively. Partner with the top website designer in Ahmedabad to attract and
-                            convert more
-                            visitors with standout landing pages!
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row my-5 p-2">
-            <div class="col-12  ">
-                <div class="row px-4 border rounded py-4 flex-column-reverse flex-lg-row">
-                    <div class="col-lg-8 my-2 pere_justify">
-                        <h4 class="text-primary">Branding, Stationery & Graphic Design</h4>
-                        <p>Branding encompasses all elements associated with your brand, including logos, packaging,
-                            color schemes, and taglines. As a trusted graphic design company in Ahmedabad, we ensure
-                            that these elements are cohesive and create a distinctive, attractive brand identity. We
-                            offer comprehensive branding and design services tailored to every firm or organization.
-                        </p>
-                    </div>
-                    <div class="col-lg-4 my-2">
-                        <img src="image/branding.jpeg" height="auto"
-                            class="border border-dark border-3 p-2 rounded shadow-lg" width="100%" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 mt-4 text-center text-lg-start">
-                <a href="" class="btn btn-primary rounded-pill py-2 fs-5 px-4    text-white">Get Free Consultation
-                    Today !</a>
-
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4 col-md-6 my-2">
-                <div class="h-100">
-                    <a href="https://asrinclusiveservices.in/" target="_blank">
-                        <img src="image/portfolio/1.JPG" height="auto" width="100%" class="border border-dark border-3 rounded shadow-lg" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 my-2">
-                <div class="h-100">
-                    <a href="https://adsclickpromedia.com/" target="_blank">
-                        <img src="image/portfolio/2.JPG" height="auto" width="100%" class="border border-dark border-3 rounded shadow-lg" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 my-2">
-                <div class="h-100">
-                    <a href="https://viksitbharatinnovation.com/" target="_blank">
-                        <img src="image/portfolio/3.JPG" height="auto" width="100%" class="border border-dark border-3 rounded shadow-lg" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 my-2">
-                <div class="h-100">
-                    <a href="https://utsavfoundation.org/" target="_blank">
-                        <img src="image/portfolio/4.JPG" height="auto" width="100%" class="border border-dark border-3 rounded shadow-lg" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 my-2">
-                <div class="h-100">
-                    <a href="https://asdtpl.com/" target="_blank">
-                        <img src="image/portfolio/5.JPG" height="auto" width="100%" class="border border-dark border-3 rounded shadow-lg" alt="">
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 my-2">
-                <div class="h-100">
-                    <a href="https://reviveandalignpilates.com/" target="_blank">
-                        <img src="image/portfolio/6.JPG" height="auto" width="100%" class="border border-dark border-3 rounded shadow-lg" alt="">
-                    </a>
-                </div>
-            </div>           
-        </div>
-    </div>
-
-
-    <?php include "footer.php"; ?>
+        <!-- Facts End -->
+        <?php include "footer.php"; ?>
